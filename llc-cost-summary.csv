@@ -1,0 +1,52 @@
+state,state_code,formation_fee,first_year_total,five_year_total,annual_total,foreign_registration_fee,report_cadence_years
+Alabama,AL,200,200,200,0,150,1
+Alaska,AK,250,350,550,50,350,2
+Arizona,AZ,50,50,50,0,150,1
+Arkansas,AR,50,200,800,150,300,1
+California,CA,70,890,4130,810,70,2
+Colorado,CO,50,75,175,25,100,1
+Connecticut,CT,120,200,520,80,120,1
+Delaware,DE,110,510,2110,400,200,1
+District of Columbia,DC,99,399,999,150,220,2
+Florida,FL,125,263.75,818.75,138.75,125,1
+Georgia,GA,100,150,350,50,225,1
+Hawaii,HI,50,65,125,15,50,1
+Idaho,ID,100,100,100,0,100,1
+Illinois,IL,150,225,525,75,150,1
+Indiana,IN,75,95,135,10,75,2
+Iowa,IA,50,80,140,15,100,2
+Kansas,KS,90,143,355,53,115,1
+Kentucky,KY,40,55,115,15,90,1
+Louisiana,LA,125,160,300,35,185,1
+Maine,ME,175,260,600,85,250,1
+Maryland,MD,100,400,1600,300,100,1
+Massachusetts,MA,500,1000,3000,500,500,1
+Michigan,MI,50,75,175,25,50,1
+Minnesota,MN,155,155,155,0,205,1
+Mississippi,MS,50,50,50,0,250,1
+Missouri,MO,50,50,50,0,105,1
+Montana,MT,35,35,35,0,70,1
+Nebraska,NE,100,125,175,12.5,100,2
+Nevada,NV,75,425,1825,350,75,1
+New Hampshire,NH,100,200,600,100,100,1
+New Jersey,NJ,100,175,475,75,100,1
+New Mexico,NM,50,50,50,0,100,1
+New York,NY,200,259,277,4.5,250,2
+North Carolina,NC,125,325,1125,200,250,1
+North Dakota,ND,135,185,385,50,135,1
+Ohio,OH,99,99,99,0,99,1
+Oklahoma,OK,100,125,225,25,300,1
+Oregon,OR,100,200,600,100,275,1
+Pennsylvania,PA,125,132,160,7,250,1
+Rhode Island,RI,150,600,2400,450,150,1
+South Carolina,SC,110,110,110,0,110,1
+South Dakota,SD,150,205,425,55,750,1
+Tennessee,TN,300,700,2300,400,300,1
+Texas,TX,300,300,300,0,750,1
+Utah,UT,70,88,160,18,59,1
+Vermont,VT,155,200,380,45,155,1
+Virginia,VA,100,150,350,50,100,1
+Washington,WA,180,250,530,70,180,1
+West Virginia,WV,100,125,225,25,150,1
+Wisconsin,WI,130,155,255,25,100,1
+Wyoming,WY,100,160,400,60,150,1

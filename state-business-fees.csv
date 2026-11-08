@@ -1,0 +1,514 @@
+state,state_code,entity,fee,amount_usd,period_years,minimum,note,official_source_url,date
+Alabama,AL,llc,Formation filing fee,200,,false,,https://www.sos.alabama.gov/node/100,2026-11-08
+Alabama,AL,llc,Annual or biennial report fee,0,1,false,No Secretary of State annual report for LLCs; the Business Privilege Tax is a separate tax paid to the Department of Revenue.,https://www.sos.alabama.gov/node/100,2026-11-08
+Alabama,AL,llc,Foreign registration (another state's LLC),150,,false,,https://www.sos.alabama.gov/node/100,2026-11-08
+Alabama,AL,corporation,Formation filing fee,200,,false,Includes $100 the Secretary of State pays to the county treasurer; the state form lists no separate probate fee.,https://www.sos.alabama.gov/business-entities/domestic-corporations,2026-11-08
+Alabama,AL,corporation,Annual or biennial report fee,0,1,false,Corporations no longer file an annual report with the Secretary of State.,https://www.sos.alabama.gov/business-entities,2026-11-08
+Alabama,AL,corporation,Foreign registration (another state's corporation),150,,false,"Application for certificate of authority, online filing fee.",https://www.sos.alabama.gov/business-entities/foreign-corporations,2026-11-08
+Alabama,AL,nonprofit,Formation filing fee,200,,false,,https://www.sos.alabama.gov/business-entities/domestic-corporations,2026-11-08
+Alabama,AL,nonprofit,Annual or biennial report fee,0,1,false,Corporations (which includes domestic nonprofit corporations) no longer file an annual report with the Secretary of State.,https://www.sos.alabama.gov/business-entities,2026-11-08
+Alabama,AL,nonprofit,Foreign registration (another state's nonprofit corporation),150,,false,One state form covers foreign business and non-profit corporations: Application for Registration.,https://www.Sos.Alabama.Gov/sites/default/files/2022-09/ForeignCorporationRegistration.pdf,2026-11-08
+Alaska,AK,llc,Formation filing fee,250,,false,"Articles of Organization, domestic LLC, as printed on the state form.",https://www.commerce.alaska.gov/web/Portals/5/pub/corp0484.pdf,2026-11-08
+Alaska,AK,llc,Annual or biennial report fee,100,2,false,Biennial report fee for a domestic LLC (3 AAC 16.065).,https://www.akleg.gov/basis/aac.asp?media=print&secStart=3.16.065&secEnd=3.16.065,2026-11-08
+Alaska,AK,llc,Foreign registration (another state's LLC),350,,false,"Form 08-0497 (Rev. 05/07/2026), Certificate of Registration, Foreign Limited Liability Company.",https://www.commerce.alaska.gov/web/Portals/5/pub/corp0497.pdf,2026-11-08
+Alaska,AK,corporation,Formation filing fee,150,,false,"Plus the $100 biennial corporation tax, due at filing.",https://www.akleg.gov/basis/aac.asp?media=print&secStart=3.16.030&secEnd=3.16.030,2026-11-08
+Alaska,AK,corporation,Annual or biennial report fee,100,2,false,Biennial corporation tax paid with the biennial report (AS 10.06); foreign corporations pay $200.,https://www.akleg.gov/basis/statutes.asp?media=print&secStart=10.06.010&secEnd=10.06.999,2026-11-08
+Alaska,AK,corporation,Foreign registration (another state's corporation),350,,false,"Certificate of Authority, foreign business corporation.",https://www.commerce.alaska.gov/web/Portals/5/pub/08-414.pdf,2026-11-08
+Alaska,AK,nonprofit,Formation filing fee,50,,false,"Articles of Incorporation, domestic nonprofit corporation (3 AAC 16.050(b)).",https://www.akleg.gov/basis/aac.asp?media=print&secStart=3.16.050&secEnd=3.16.050,2026-11-08
+Alaska,AK,nonprofit,Annual or biennial report fee,25,2,false,Biennial report fee for nonprofit corporations.,https://www.commerce.alaska.gov/web/cbpl/Corporations,2026-11-08
+Alaska,AK,nonprofit,Foreign registration (another state's nonprofit corporation),50,,false,"Application for certificate of authority, foreign nonprofit corporation (3 AAC 16.050(b)).",https://www.akleg.gov/basis/aac.asp?media=print&secStart=3.16.050&secEnd=3.16.050,2026-11-08
+Arizona,AZ,llc,Formation filing fee,50,,false,Regular processing; expedited processing costs extra.,https://www.azcc.gov/docs/default-source/corps-files/forms/l010-articles-of-organization.pdf,2026-11-08
+Arizona,AZ,llc,Annual or biennial report fee,0,1,false,Arizona does not require LLCs to file annual reports.,https://www.azcc.gov/corporations/faqs,2026-11-08
+Arizona,AZ,llc,Foreign registration (another state's LLC),150,,false,"Foreign Registration Statement, regular processing.",https://azcc.gov/docs/default-source/corps-files/forms/l025-application-for-registration4afaea2f67c14b72a213ef5b0b8355b0.pdf?sfvrsn=82ee285b_16,2026-11-08
+Arizona,AZ,corporation,Formation filing fee,60,,false,"Regular processing, for-profit row of the Corporations fee schedule.",https://azcc.gov/docs/default-source/corps-files/fee-schedules/fee-schedule-corporations6def4cc74b1a47129d16c2b1c3851bda.pdf?sfvrsn=2d6fbddb_5,2026-11-08
+Arizona,AZ,corporation,Annual or biennial report fee,45,1,false,Regular processing; expedited processing is higher.,https://azcc.gov/docs/default-source/corps-files/fee-schedules/fee-schedule-corporations6def4cc74b1a47129d16c2b1c3851bda.pdf?sfvrsn=2d6fbddb_5,2026-11-08
+Arizona,AZ,corporation,Foreign registration (another state's corporation),175,,false,"Application for Authority to Transact Business in Arizona, regular processing.",https://azcc.gov/docs/default-source/corps-files/fee-schedules/fee-schedule-corporations6def4cc74b1a47129d16c2b1c3851bda.pdf?sfvrsn=2d6fbddb_5,2026-11-08
+Arizona,AZ,nonprofit,Formation filing fee,40,,false,"Articles of Incorporation, nonprofit, regular processing.",https://www.azcc.gov/docs/default-source/corps-files/forms/c011-articles-of-incorporation-nonprofit.pdf,2026-11-08
+Arizona,AZ,nonprofit,Annual or biennial report fee,10,1,false,Regular processing; expedited processing is higher.,https://azcc.gov/docs/default-source/corps-files/fee-schedules/fee-schedule-corporations6def4cc74b1a47129d16c2b1c3851bda.pdf?sfvrsn=2d6fbddb_5,2026-11-08
+Arizona,AZ,nonprofit,Foreign registration (another state's nonprofit corporation),175,,false,"Application for Authority; the form covers for-profit and nonprofit corporations, regular processing.",https://www.azcc.gov/docs/default-source/corps-files/forms/c018-application-for-authorityf0a7642459b14cc8b59ae368ff35fd6d.pdf?sfvrsn=c3a659b2_6,2026-11-08
+Arkansas,AR,llc,Formation filing fee,50,,false,Paper filing; the state lists $45 for online filing.,https://www.sos.arkansas.gov/uploads/bcs/LL-01.pdf,2026-11-08
+Arkansas,AR,llc,Annual or biennial report fee,150,1,false,Annual franchise tax report; the payment the state requires with it.,https://www.sos.arkansas.gov/uploads/bcs/LLC1_FT_2026.pdf,2026-11-08
+Arkansas,AR,llc,Foreign registration (another state's LLC),300,,false,Statement of Authority for a foreign LLC.,http://www.sos.arkansas.gov/uploads/bcs/LLC_Fees1_1.pdf,2026-11-08
+Arkansas,AR,corporation,Formation filing fee,50,,false,,https://www.sos.arkansas.gov/uploads/bcs/Corp_Filing_Fees_2.pdf,2026-11-08
+Arkansas,AR,corporation,Annual or biennial report fee,150,1,true,"Annual franchise tax report; 0.3 percent of outstanding capital stock, $150 minimum ($300 for corporations without authorized stock).",https://www.sos.arkansas.gov/uploads/bcs/Corp1_FT_2026.pdf,2026-11-08
+Arkansas,AR,corporation,Foreign registration (another state's corporation),300,,false,"Application for certificate of authority, foreign corporation.",https://www.sos.arkansas.gov/uploads/bcs/Corp_Filing_Fees_2.pdf,2026-11-08
+Arkansas,AR,nonprofit,Formation filing fee,50,,false,,https://www.sos.arkansas.gov/uploads/bcs/Non-Prof_Fees_1.pdf,2026-11-08
+Arkansas,AR,nonprofit,Annual or biennial report fee,0,1,false,Fee line on the state's Annual Report for Nonprofit Corporation form.,https://www.sos.arkansas.gov/uploads/bcs/Annual_Report_for_Nonprofit_Corp_1_1.pdf,2026-11-08
+Arkansas,AR,nonprofit,Foreign registration (another state's nonprofit corporation),300,,false,"Application for certificate of authority, foreign nonprofit corporation.",https://www.sos.arkansas.gov/uploads/bcs/Non-Prof_Fees_1.pdf,2026-11-08
+California,CA,llc,Formation filing fee,70,,false,,https://www.sos.ca.gov/business-programs/cannabizfile/cannabis-forms-and-fees/limited-liability-companies-llc-california,2026-11-08
+California,CA,llc,Annual or biennial report fee,20,2,false,Statement of Information is due within 90 days of registration and every two years thereafter.,https://www.sos.ca.gov/business-programs/cannabizfile/cannabis-forms-and-fees/limited-liability-companies-llc-california,2026-11-08
+California,CA,llc,Annual LLC tax or minimum franchise tax,800,1,false,"Franchise Tax Board annual LLC tax, due even if the LLC is not conducting business.",https://www.ftb.ca.gov/file/business/types/limited-liability-company/index.html,2026-11-08
+California,CA,llc,Foreign registration (another state's LLC),70,,false,From the Secretary of State fee schedule revised 06/2018.,https://bpd.cdn.sos.ca.gov/pdf/be-fee-schedule-062018.pdf,2026-11-08
+California,CA,corporation,Formation filing fee,100,,false,,https://bpd.cdn.sos.ca.gov/pdf/be-fee-schedule-062018.pdf,2026-11-08
+California,CA,corporation,Annual or biennial report fee,25,1,false,$20.00 filing fee plus $5.00 disclosure fee.,https://bpd.cdn.sos.ca.gov/pdf/be-fee-schedule-062018.pdf,2026-11-08
+California,CA,corporation,Annual state tax or minimum franchise tax,800,1,true,,https://www.ftb.ca.gov/file/business/types/corporations/index.html,2026-11-08
+California,CA,corporation,Foreign registration (another state's corporation),100,,false,"Statement and Designation by Foreign Corporation, stock corporation.",https://bpd.cdn.sos.ca.gov/pdf/be-fee-schedule-062018.pdf,2026-11-08
+California,CA,nonprofit,Formation filing fee,30,,false,Articles of Incorporation not providing for shares (nonprofit corporation).,https://bpd.cdn.sos.ca.gov/pdf/be-fee-schedule-062018.pdf,2026-11-08
+California,CA,nonprofit,Annual or biennial report fee,20,2,false,,https://bpd.cdn.sos.ca.gov/pdf/be-fee-schedule-062018.pdf,2026-11-08
+California,CA,nonprofit,Foreign registration (another state's nonprofit corporation),30,,false,"Statement and Designation by Foreign Corporation, nonstock nonprofit corporation.",https://bpd.cdn.sos.ca.gov/pdf/be-fee-schedule-062018.pdf,2026-11-08
+Colorado,CO,llc,Formation filing fee,50,,false,Online fee; the state lists the paper fee as n/a.,https://www.sos.state.co.us/pubs/info_center/fees/business.html,2026-11-08
+Colorado,CO,llc,Annual or biennial report fee,25,1,false,,https://www.sos.state.co.us/pubs/info_center/fees/business.html,2026-11-08
+Colorado,CO,llc,Foreign registration (another state's LLC),100,,false,"Fee for foreign entities of any type, online fee.",https://www.sos.state.co.us/pubs/info_center/fees/business.html,2026-11-08
+Colorado,CO,llc,Late filing penalty,50,,false,,https://www.sos.state.co.us/pubs/info_center/fees/business.html,2026-11-08
+Colorado,CO,corporation,Formation filing fee,50,,false,Online fee.,https://www.sos.state.co.us/pubs/info_center/fees/business.html,2026-11-08
+Colorado,CO,corporation,Annual or biennial report fee,25,1,false,"Periodic Report fee listed under Business Transactions, general applicability (all entity types), online fee.",https://www.sos.state.co.us/pubs/info_center/fees/business.html,2026-11-08
+Colorado,CO,corporation,Foreign registration (another state's corporation),100,,false,"Fee for foreign entities of any type, online fee.",https://www.sos.state.co.us/pubs/info_center/fees/business.html,2026-11-08
+Colorado,CO,nonprofit,Formation filing fee,50,,false,Online fee.,https://www.sos.state.co.us/pubs/info_center/fees/business.html,2026-11-08
+Colorado,CO,nonprofit,Annual or biennial report fee,25,1,false,"Periodic Report is listed under general applicability for all reporting entities, including nonprofit corporations.",https://www.sos.state.co.us/pubs/info_center/fees/business.html,2026-11-08
+Colorado,CO,nonprofit,Foreign registration (another state's nonprofit corporation),100,,false,"Fee for foreign entities of any type, online fee.",https://www.sos.state.co.us/pubs/info_center/fees/business.html,2026-11-08
+Colorado,CO,any,Business name (DBA) registration,20,,false,Online fee.,https://www.sos.state.co.us/pubs/info_center/fees/business.html,2026-11-08
+Connecticut,CT,llc,Formation filing fee,120,,false,Includes appointment of statutory agent; filed online.,https://business.ct.gov/knowledge-base/articles/domestic-limited-liability-companies-forms-and-fees,2026-11-08
+Connecticut,CT,llc,Annual or biennial report fee,80,1,false,Filed online.,https://business.ct.gov/knowledge-base/articles/domestic-annual-report-forms-and-fees,2026-11-08
+Connecticut,CT,llc,Foreign registration (another state's LLC),120,,false,Filed online.,https://business.ct.gov/knowledge-base/articles/foreign-limited-liability-companies-forms-and-fees,2026-11-08
+Connecticut,CT,corporation,Formation filing fee,250,,false,"Domestic stock corporation, filed online.",https://business.ct.gov/knowledge-base/articles/domestic-stock-corporations-forms-and-fees,2026-11-08
+Connecticut,CT,corporation,Annual or biennial report fee,150,1,false,"Domestic stock corporation, filed online.",https://business.ct.gov/knowledge-base/articles/domestic-stock-corporations-forms-and-fees,2026-11-08
+Connecticut,CT,corporation,Foreign registration (another state's corporation),385,,false,Online fee; includes a $285 license fee.,https://business.ct.gov/knowledge-base/articles/foreign-stock-corporations-forms-and-fees,2026-11-08
+Connecticut,CT,nonprofit,Formation filing fee,50,,false,"Domestic nonstock corporation, filed online.",https://business.ct.gov/knowledge-base/articles/domestic-nonstock-corporations-forms-and-fees,2026-11-08
+Connecticut,CT,nonprofit,Annual or biennial report fee,50,1,false,"Domestic nonstock corporation, filed online.",https://business.ct.gov/knowledge-base/articles/domestic-nonstock-corporations-forms-and-fees,2026-11-08
+Connecticut,CT,nonprofit,Foreign registration (another state's nonprofit corporation),40,,false,"Online fee, foreign non-stock corporation.",https://business.ct.gov/knowledge-base/articles/foreign-nonstock-corporations-forms-and-fees,2026-11-08
+Delaware,DE,llc,Formation filing fee,110,,false,"Total filing fee per the Division's fee schedule (filing, indexing, data entry, municipality and county recording fees for a 1-page document).",https://corpfiles.delaware.gov/Fee_Schedule/AugustFee2026.pdf,2026-11-08
+Delaware,DE,llc,Annual or biennial report fee,0,1,false,No annual report; the annual LLC tax is paid instead.,https://corp.delaware.gov/alt-entitytaxinstructions/,2026-11-08
+Delaware,DE,llc,Annual LLC tax or minimum franchise tax,400,1,false,,https://corp.delaware.gov/alt-entitytaxinstructions/,2026-11-08
+Delaware,DE,llc,Foreign registration (another state's LLC),200,,false,"Foreign LLC certificate of registration, 1-page document.",https://corpfiles.delaware.gov/Fee_Schedule/AugustFee2026.pdf,2026-11-08
+Delaware,DE,llc,Late filing penalty,200,,false,,https://corp.delaware.gov/alt-entitytaxinstructions/,2026-11-08
+Delaware,DE,corporation,Formation filing fee,109,,true,"Varies with authorized stock; $109 is the base for a 1-page certificate, plus $9 per added page.",https://corpfiles.delaware.gov/Fee_Schedule/AugustFee2026.pdf,2026-11-08
+Delaware,DE,corporation,Annual or biennial report fee,50,1,false,,https://corp.delaware.gov/paytaxes/,2026-11-08
+Delaware,DE,corporation,Annual state tax or minimum franchise tax,175,1,true,Minimum under the Authorized Shares Method; rises with authorized shares (Assumed Par Value Capital Method minimum is $400),https://corp.delaware.gov/paytaxes/,2026-11-08
+Delaware,DE,corporation,Foreign registration (another state's corporation),245,,false,,https://corpfiles.delaware.gov/Fee_Schedule/AugustFee2026.pdf,2026-11-08
+Delaware,DE,corporation,Annual report fee for a registered foreign entity,250,1,false,Due June 30 each year; a $250 penalty is added when the report and fee are late.,https://corp.delaware.gov/paytaxes/,2026-11-08
+Delaware,DE,nonprofit,Formation filing fee,109,,false,"Certificate of incorporation for an exempt corporation, 1-page document.",https://corpfiles.delaware.gov/Fee_Schedule/AugustFee2026.pdf,2026-11-08
+Delaware,DE,nonprofit,Annual or biennial report fee,25,1,false,Annual report for an exempt corporation; franchise tax is separate.,https://corpfiles.delaware.gov/Corp_Forms/Incorporation%20-%20Exempt.pdf,2026-11-08
+Delaware,DE,nonprofit,Foreign registration (another state's nonprofit corporation),245,,false,The Division lists one foreign qualification fee for all corporations; no separate nonprofit row.,https://corpfiles.delaware.gov/Fee_Schedule/AugustFee2026.pdf,2026-11-08
+District of Columbia,DC,llc,Formation filing fee,99,,false,,https://dlcp.dc.gov/page/corporations-division-fees-limited-liability-company,2026-11-08
+District of Columbia,DC,llc,Annual or biennial report fee,300,2,false,,https://dlcp.dc.gov/page/corporations-division-fees-limited-liability-company,2026-11-08
+District of Columbia,DC,llc,Foreign registration (another state's LLC),220,,false,,https://dlcp.dc.gov/page/corporations-division-fees-limited-liability-company,2026-11-08
+District of Columbia,DC,llc,Late filing penalty,100,,false,,https://dlcp.dc.gov/page/corporations-division-fees-limited-liability-company,2026-11-08
+District of Columbia,DC,corporation,Formation filing fee,99,,false,,https://dlcp.dc.gov/page/dlcp-license-corporate-filing-fees,2026-11-08
+District of Columbia,DC,corporation,Annual or biennial report fee,300,2,false,,https://dlcp.dc.gov/page/dlcp-license-corporate-filing-fees,2026-11-08
+District of Columbia,DC,corporation,Foreign registration (another state's corporation),220,,false,Initial registration of a foreign for-profit entity.,https://dlcp.dc.gov/page/dlcp-license-corporate-filing-fees,2026-11-08
+District of Columbia,DC,nonprofit,Formation filing fee,80,,false,,https://dlcp.dc.gov/page/dlcp-license-corporate-filing-fees,2026-11-08
+District of Columbia,DC,nonprofit,Annual or biennial report fee,80,2,false,,https://dlcp.dc.gov/page/dlcp-license-corporate-filing-fees,2026-11-08
+District of Columbia,DC,nonprofit,Foreign registration (another state's nonprofit corporation),80,,false,Initial registration of a foreign non-profit entity.,https://dlcp.dc.gov/page/dlcp-license-corporate-filing-fees,2026-11-08
+Florida,FL,llc,Formation filing fee,125,,false,,https://form.sunbiz.org/pdf/cr2e047.pdf,2026-11-08
+Florida,FL,llc,Annual or biennial report fee,138.75,1,false,,https://efile.sunbiz.org/llc_ar_help.html,2026-11-08
+Florida,FL,llc,Foreign registration (another state's LLC),100,,false,A $25 registered agent fee is also required.,https://dos.fl.gov/sunbiz/forms/fees/,2026-11-08
+Florida,FL,llc,Required filing with foreign registration,25,,false,Registered agent fee,https://dos.fl.gov/sunbiz/forms/fees/,2026-11-08
+Florida,FL,llc,Late filing penalty,400,,false,,https://efile.sunbiz.org/llc_ar_help.html,2026-11-08
+Florida,FL,corporation,Formation filing fee,35,,false,New corporation filing fee; registered agent designation is counted as its own line.,https://dos.fl.gov/sunbiz/forms/fees/,2026-11-08
+Florida,FL,corporation,Annual or biennial report fee,150,1,false,,https://dos.fl.gov/sunbiz/forms/fees/,2026-11-08
+Florida,FL,corporation,Foreign registration (another state's corporation),35,,false,A $35 registered agent designation is also required.,https://dos.fl.gov/sunbiz/forms/fees/,2026-11-08
+Florida,FL,corporation,Required filing with formation,35,,false,Registered agent designation,https://dos.fl.gov/sunbiz/forms/fees/,2026-11-08
+Florida,FL,corporation,Required filing with foreign registration,35,,false,Registered agent designation,https://dos.fl.gov/sunbiz/forms/fees/,2026-11-08
+Florida,FL,nonprofit,Formation filing fee,35,,false,Florida's fee page has a single Corporation Fees schedule and does not separately label new non-profit filings; the figure is its new corporation filing fee.,https://dos.fl.gov/sunbiz/forms/fees/,2026-11-08
+Florida,FL,nonprofit,Annual or biennial report fee,61.25,1,false,,https://dos.fl.gov/sunbiz/forms/fees/,2026-11-08
+Florida,FL,nonprofit,Foreign registration (another state's nonprofit corporation),35,,false,Corporation fee table covers profit and non-profit; a $35 registered agent designation is also required.,https://dos.fl.gov/sunbiz/forms/fees/,2026-11-08
+Florida,FL,nonprofit,Required filing with formation,35,,false,Registered agent designation,https://dos.fl.gov/sunbiz/forms/fees/,2026-11-08
+Florida,FL,nonprofit,Required filing with foreign registration,35,,false,Registered agent designation,https://dos.fl.gov/sunbiz/forms/fees/,2026-11-08
+Florida,FL,any,Business name (DBA) registration,50,,false,Fictitious name registered with the Division of Corporations.,https://dos.fl.gov/sunbiz/forms/fees/,2026-11-08
+Georgia,GA,llc,Formation filing fee,100,,false,O.C.G.A. fee schedule; online filings carry an added service charge.,https://sos.ga.gov/corporations-division,2026-11-08
+Georgia,GA,llc,Annual or biennial report fee,50,1,false,Annual registration; online filings carry an added service charge.,https://sos.ga.gov/corporations-division,2026-11-08
+Georgia,GA,llc,Foreign registration (another state's LLC),225,,false,O.C.G.A. fee schedule; online filings carry an added service charge.,https://sos.ga.gov/corporations-division,2026-11-08
+Georgia,GA,corporation,Formation filing fee,100,,false,O.C.G.A. fee schedule; online filings carry an added service charge.,https://sos.ga.gov/corporations-division,2026-11-08
+Georgia,GA,corporation,Annual or biennial report fee,50,1,false,Annual registration; online filings carry an added service charge.,https://sos.ga.gov/corporations-division,2026-11-08
+Georgia,GA,corporation,Foreign registration (another state's corporation),225,,false,O.C.G.A. fee schedule; online filings carry an added service charge.,https://sos.ga.gov/corporations-division,2026-11-08
+Georgia,GA,nonprofit,Formation filing fee,100,,false,O.C.G.A. fee schedule; online filings carry an added service charge.,https://sos.ga.gov/corporations-division,2026-11-08
+Georgia,GA,nonprofit,Annual or biennial report fee,30,1,false,Annual registration; online filings carry an added service charge.,https://sos.ga.gov/corporations-division,2026-11-08
+Georgia,GA,nonprofit,Foreign registration (another state's nonprofit corporation),225,,false,O.C.G.A. fee schedule; online filings carry an added service charge.,https://sos.ga.gov/corporations-division,2026-11-08
+Hawaii,HI,llc,Formation filing fee,50,,false,,https://cca.hawaii.gov/breg/registration/dllc/fees/,2026-11-08
+Hawaii,HI,llc,Annual or biennial report fee,15,1,false,Regular filing fee; expedited review costs an additional $25.,https://cca.hawaii.gov/breg/registration/dllc/fees/,2026-11-08
+Hawaii,HI,llc,Foreign registration (another state's LLC),50,,false,Regular filing fee; expedited service costs an additional $25.,https://cca.hawaii.gov/breg/registration/fllc/,2026-11-08
+Hawaii,HI,corporation,Formation filing fee,50,,false,Standard filing fee; expedited review is a separate column.,https://cca.hawaii.gov/breg/registration/dpc/fees/,2026-11-08
+Hawaii,HI,corporation,Annual or biennial report fee,15,1,false,,https://cca.hawaii.gov/breg/registration/dpc/fees/,2026-11-08
+Hawaii,HI,corporation,Foreign registration (another state's corporation),50,,false,Regular filing fee; expedited review costs an additional $25.,https://cca.hawaii.gov/breg/registration/fpc/fees/,2026-11-08
+Hawaii,HI,nonprofit,Formation filing fee,25,,false,Standard filing fee; expedited review is a separate column.,https://cca.hawaii.gov/breg/registration/dnc/fees/,2026-11-08
+Hawaii,HI,nonprofit,Annual or biennial report fee,5,1,false,,https://cca.hawaii.gov/breg/registration/dnc/fees/,2026-11-08
+Hawaii,HI,nonprofit,Foreign registration (another state's nonprofit corporation),25,,false,"Foreign nonprofit corporation page; regular filing fee, expedited service costs an additional $25.",https://cca.hawaii.gov/breg/registration/fnpc/,2026-11-08
+Idaho,ID,llc,Formation filing fee,100,,false,Base filing fee; a $20 manual processing fee applies to paper forms.,https://sos.idaho.gov/business-forms/,2026-11-08
+Idaho,ID,llc,Annual or biennial report fee,0,1,false,,https://sos.idaho.gov/business-forms/,2026-11-08
+Idaho,ID,llc,Foreign registration (another state's LLC),100,,false,Base filing fee; a $20 manual processing fee applies to paper forms.,https://sos.idaho.gov/business-forms/,2026-11-08
+Idaho,ID,corporation,Formation filing fee,100,,false,Base filing fee; paper submissions add a $20 manual processing fee.,https://sos.idaho.gov/business-forms/,2026-11-08
+Idaho,ID,corporation,Annual or biennial report fee,0,1,false,,https://sos.idaho.gov/business-forms/,2026-11-08
+Idaho,ID,corporation,Foreign registration (another state's corporation),100,,false,Base filing fee under Foreign Business Entities; the page lists one fee for all foreign entity types. A $20 manual processing fee applies to paper filing.,https://sos.idaho.gov/business-forms/,2026-11-08
+Idaho,ID,nonprofit,Formation filing fee,30,,false,Base filing fee; paper submissions add a $20 manual processing fee.,https://sos.idaho.gov/business-forms/,2026-11-08
+Idaho,ID,nonprofit,Annual or biennial report fee,0,1,false,,https://sos.idaho.gov/business-forms/,2026-11-08
+Idaho,ID,nonprofit,Foreign registration (another state's nonprofit corporation),100,,false,"One state form, Foreign Registration Statement, lists Nonprofit Corporation among the entity types; $20 more for manual (paper) processing.",https://archive.sos.idaho.gov/CORP/forms/FOREIGN/Foreign%20Reg%20Statement.pdf,2026-11-08
+Idaho,ID,any,Business name (DBA) registration,25,,false,Base filing fee; paper submissions add a $20 manual processing fee.,https://sos.idaho.gov/business-forms/,2026-11-08
+Illinois,IL,llc,Formation filing fee,150,,false,805 ILCS 180/50-10; $400 for an LLC with a series.,https://www.ilga.gov/Documents/legislation/ilcs/documents/080501800K50-10.htm,2026-11-08
+Illinois,IL,llc,Annual or biennial report fee,75,1,false,805 ILCS 180/50-10; plus $50 for each series with a certificate of designation.,https://www.ilga.gov/Documents/legislation/ilcs/documents/080501800K50-10.htm,2026-11-08
+Illinois,IL,llc,Foreign registration (another state's LLC),150,,false,"Application for admission (foreign), 805 ILCS 180/50-10; $400 for an LLC with a series.",https://www.ilga.gov/Documents/legislation/ilcs/documents/080501800K50-10.htm,2026-11-08
+Illinois,IL,corporation,Formation filing fee,150,,false,805 ILCS 5/15.10.,https://www.ilga.gov/Documents/legislation/ilcs/documents/080500050K15.10.htm,2026-11-08
+Illinois,IL,corporation,Annual or biennial report fee,75,1,false,805 ILCS 5/15.10.,https://www.ilga.gov/Documents/legislation/ilcs/documents/080500050K15.10.htm,2026-11-08
+Illinois,IL,corporation,Foreign registration (another state's corporation),150,,false,805 ILCS 5/15.10.,https://www.ilga.gov/Documents/legislation/ilcs/documents/080500050K15.10.htm,2026-11-08
+Illinois,IL,nonprofit,Formation filing fee,50,,false,805 ILCS 105/115.10.,https://www.ilga.gov/Documents/legislation/ilcs/documents/080501050K115.10.htm,2026-11-08
+Illinois,IL,nonprofit,Annual or biennial report fee,10,1,false,805 ILCS 105/115.10.,https://www.ilga.gov/Documents/legislation/ilcs/documents/080501050K115.10.htm,2026-11-08
+Illinois,IL,nonprofit,Foreign registration (another state's nonprofit corporation),50,,false,805 ILCS 105/115.10.,https://www.ilga.gov/Documents/legislation/ilcs/documents/080501050K115.10.htm,2026-11-08
+Indiana,IN,llc,Formation filing fee,75,,false,Electronic filing statutory fee; $100 if not filed electronically.,https://iga.in.gov/ic/2026/Title_23/Article_0.5/Chapter_9.pdf,2026-11-08
+Indiana,IN,llc,Annual or biennial report fee,20,2,false,Electronic filing statutory fee for a for-profit entity.,https://iga.in.gov/ic/2026/Title_23/Article_0.5/Chapter_9.pdf,2026-11-08
+Indiana,IN,llc,Foreign registration (another state's LLC),75,,false,"Foreign registration statement, for-profit entity, electronic filing (paper is $125).",https://iga.in.gov/ic/2026/Title_23/Article_0.5/Chapter_9.pdf,2026-11-08
+Indiana,IN,corporation,Formation filing fee,75,,false,Electronic filing fee (paper filing is $100).,https://iga.in.gov/ic/2026/Title_23/Article_0.5/Chapter_9.pdf,2026-11-08
+Indiana,IN,corporation,Annual or biennial report fee,20,2,false,"Biennial report, for-profit entity, electronic filing (paper is $50).",https://iga.in.gov/ic/2026/Title_23/Article_0.5/Chapter_9.pdf,2026-11-08
+Indiana,IN,corporation,Foreign registration (another state's corporation),75,,false,"Foreign registration statement, for-profit entity, electronic filing (paper is $125).",https://iga.in.gov/ic/2026/Title_23/Article_0.5/Chapter_9.pdf,2026-11-08
+Indiana,IN,nonprofit,Formation filing fee,20,,false,Electronic filing fee (paper filing is $50).,https://iga.in.gov/ic/2026/Title_23/Article_0.5/Chapter_9.pdf,2026-11-08
+Indiana,IN,nonprofit,Annual or biennial report fee,10,2,false,"Biennial report, nonprofit corporation, electronic filing (paper is $20).",https://iga.in.gov/ic/2026/Title_23/Article_0.5/Chapter_9.pdf,2026-11-08
+Indiana,IN,nonprofit,Foreign registration (another state's nonprofit corporation),20,,false,"Foreign registration statement, nonprofit corporation, electronic filing (paper is $75).",https://iga.in.gov/ic/2026/Title_23/Article_0.5/Chapter_9.pdf,2026-11-08
+Iowa,IA,llc,Formation filing fee,50,,false,,https://www.legis.iowa.gov/docs/code/489.122.pdf,2026-11-08
+Iowa,IA,llc,Annual or biennial report fee,30,2,false,"Biennial report, electronic filing; $45 on paper (721 IAC 40.7(2)).",https://www.legis.iowa.gov/docs/iac/chapter/02-18-2026.721.40.pdf,2026-11-08
+Iowa,IA,llc,Foreign registration (another state's LLC),100,,false,Iowa Code 489.122 fee for a foreign LLC certificate of registration.,https://www.legis.iowa.gov/docs/code/489.122.pdf,2026-11-08
+Iowa,IA,corporation,Formation filing fee,50,,false,,https://www.legis.iowa.gov/docs/code/490.122.pdf,2026-11-08
+Iowa,IA,corporation,Annual or biennial report fee,60,2,false,,https://www.legis.iowa.gov/docs/code/490.122.pdf,2026-11-08
+Iowa,IA,corporation,Foreign registration (another state's corporation),100,,false,Iowa Code 490.122 fee for a foreign corporation registration statement.,https://www.legis.iowa.gov/docs/code/490.122.pdf,2026-11-08
+Iowa,IA,nonprofit,Formation filing fee,20,,false,"Articles of incorporation, domestic nonprofit corporation (721 IAC 40.6).",https://www.legis.iowa.gov/docs/iac/chapter/02-18-2026.721.40.pdf,2026-11-08
+Iowa,IA,nonprofit,Annual or biennial report fee,0,2,false,"Nonprofit biennial report, 721 IAC 40.6.",https://www.legis.iowa.gov/docs/iac/chapter/02-18-2026.721.40.pdf,2026-11-08
+Iowa,IA,nonprofit,Foreign registration (another state's nonprofit corporation),25,,false,"Application for certificate of authority, foreign nonprofit corporation.",https://sos.iowa.gov/business/,2026-11-08
+Kansas,KS,llc,Formation filing fee,90,,false,Paper filing; the state lists $85 for online filing.,https://www.sos.ks.gov/forms/business_services/LAO.pdf,2026-11-08
+Kansas,KS,llc,Annual or biennial report fee,53,1,false,Online filing; the state lists $55 for a paper annual report.,https://sos.ks.gov/forms/business_services/LC.pdf,2026-11-08
+Kansas,KS,llc,Foreign registration (another state's LLC),115,,false,Application for Registration of a foreign business; one fee for all business types.,https://sos.ks.gov/forms/business_services/FA.pdf,2026-11-08
+Kansas,KS,corporation,Formation filing fee,85,,false,Online filing; paper filing is $90.,https://www.sos.ks.gov/forms/business_services/AI.pdf,2026-11-08
+Kansas,KS,corporation,Annual or biennial report fee,90,2,false,"Biennial Information Report, online filing (paper is $110).",https://sos.ks.gov/forms/business_services/IFP.pdf,2026-11-08
+Kansas,KS,corporation,Foreign registration (another state's corporation),115,,false,Application for Registration of a foreign business; one fee for all business types.,https://sos.ks.gov/forms/business_services/FA.pdf,2026-11-08
+Kansas,KS,nonprofit,Formation filing fee,20,,false,Online filing; paper filing is also $20.,https://www.sos.ks.gov/forms/business_services/AI.pdf,2026-11-08
+Kansas,KS,nonprofit,Annual or biennial report fee,80,2,false,"Biennial Information Report, online filing (paper is $80).",https://sos.ks.gov/forms/business_services/INP.pdf,2026-11-08
+Kansas,KS,nonprofit,Foreign registration (another state's nonprofit corporation),115,,false,Application for Registration of a foreign business; one fee for all business types.,https://sos.ks.gov/forms/business_services/FA.pdf,2026-11-08
+Kentucky,KY,llc,Formation filing fee,40,,false,,https://www.sos.ky.gov/bus/business-filings/Pages/Fees.aspx,2026-11-08
+Kentucky,KY,llc,Annual or biennial report fee,15,1,false,,https://www.sos.ky.gov/bus/business-filings/Pages/Annual-Reports.aspx,2026-11-08
+Kentucky,KY,llc,Foreign registration (another state's LLC),90,,false,,https://www.sos.ky.gov/bus/business-filings/Pages/Fees.aspx,2026-11-08
+Kentucky,KY,corporation,Formation filing fee,40,,false,Profit corporations must also pay an organization tax based on number of shares.,https://www.sos.ky.gov/bus/business-filings/Pages/Fees.aspx,2026-11-08
+Kentucky,KY,corporation,Annual or biennial report fee,15,1,false,,https://www.sos.ky.gov/bus/business-filings/Pages/Fees.aspx,2026-11-08
+Kentucky,KY,corporation,Foreign registration (another state's corporation),90,,false,One fee listed for foreign profit and non-profit corporations and LLCs.,https://www.sos.ky.gov/bus/business-filings/Pages/Fees.aspx,2026-11-08
+Kentucky,KY,corporation,Required filing with formation,10,,true,"Organization tax (minimum for 1,000 shares or fewer)",https://www.sos.ky.gov/bus/business-filings/Pages/Fees.aspx,2026-11-08
+Kentucky,KY,nonprofit,Formation filing fee,8,,false,,https://www.sos.ky.gov/bus/business-filings/Pages/Fees.aspx,2026-11-08
+Kentucky,KY,nonprofit,Annual or biennial report fee,15,1,false,,https://www.sos.ky.gov/bus/business-filings/Pages/Fees.aspx,2026-11-08
+Kentucky,KY,nonprofit,Foreign registration (another state's nonprofit corporation),90,,false,One fee listed for foreign profit and non-profit corporations and LLCs.,https://www.sos.ky.gov/bus/business-filings/Pages/Fees.aspx,2026-11-08
+Louisiana,LA,llc,Formation filing fee,125,,false,"Page states fees increased effective October 1, 2026 under Act 921 of the 2026 session.",https://www.sos.la.gov/business-services/forms-fee-schedule,2026-11-08
+Louisiana,LA,llc,Annual or biennial report fee,35,1,false,,https://www.sos.la.gov/business-services/forms-fee-schedule,2026-11-08
+Louisiana,LA,llc,Foreign registration (another state's LLC),185,,false,,https://www.sos.la.gov/business-services/forms-fee-schedule,2026-11-08
+Louisiana,LA,corporation,Formation filing fee,95,,false,,https://www.sos.la.gov/business-services/forms-fee-schedule,2026-11-08
+Louisiana,LA,corporation,Annual or biennial report fee,35,1,false,,https://www.sos.la.gov/business-services/forms-fee-schedule,2026-11-08
+Louisiana,LA,corporation,Foreign registration (another state's corporation),155,,false,"Form #326, application of a foreign corporation for a certificate of authority.",https://www.sos.la.gov/business-services/forms-fee-schedule,2026-11-08
+Louisiana,LA,nonprofit,Formation filing fee,95,,false,,https://www.sos.la.gov/business-services/forms-fee-schedule,2026-11-08
+Louisiana,LA,nonprofit,Annual or biennial report fee,10,1,false,,https://www.sos.la.gov/business-services/forms-fee-schedule,2026-11-08
+Louisiana,LA,nonprofit,Foreign registration (another state's nonprofit corporation),155,,false,,https://www.sos.la.gov/business-services/forms-fee-schedule,2026-11-08
+Maine,ME,llc,Formation filing fee,175,,false,,https://legislature.maine.gov/statutes/31/title31sec1680.html,2026-11-08
+Maine,ME,llc,Annual or biennial report fee,85,1,false,Foreign LLCs pay $150.,https://legislature.maine.gov/statutes/31/title31sec1680.html,2026-11-08
+Maine,ME,llc,Foreign registration (another state's LLC),250,,false,,https://legislature.maine.gov/statutes/31/title31sec1680.html,2026-11-08
+Maine,ME,llc,Late filing penalty,50,,false,Charged in addition to the annual report fee.,https://legislature.maine.gov/statutes/31/title31sec1680.html,2026-11-08
+Maine,ME,corporation,Formation filing fee,145,,false,,https://legislature.maine.gov/statutes/13-C/title13-Csec123.html,2026-11-08
+Maine,ME,corporation,Annual or biennial report fee,85,1,false,,https://legislature.maine.gov/statutes/13-C/title13-Csec123.html,2026-11-08
+Maine,ME,corporation,Foreign registration (another state's corporation),250,,false,,https://legislature.maine.gov/statutes/13-C/title13-Csec123.html,2026-11-08
+Maine,ME,nonprofit,Formation filing fee,40,,false,,https://legislature.maine.gov/statutes/13-B/title13-Bsec1401.html,2026-11-08
+Maine,ME,nonprofit,Annual or biennial report fee,35,1,false,,https://legislature.maine.gov/statutes/13-B/title13-Bsec1401.html,2026-11-08
+Maine,ME,nonprofit,Foreign registration (another state's nonprofit corporation),45,,false,,https://legislature.maine.gov/statutes/13-B/title13-Bsec1401.html,2026-11-08
+Maryland,MD,llc,Formation filing fee,100,,false,Expedited service is an additional $50.,https://dat.maryland.gov/Documents/Accessible%20Documents/Charter%20-%20Resource%20Docs/List%20of%20Fees%20for%20Charter%20Services%20and%20Document%20Filings_0326-A.pdf,2026-11-08
+Maryland,MD,llc,Annual or biennial report fee,300,1,false,SDAT annual report (Form 1) fee,https://dat.maryland.gov/SDAT%20Forms/PPR_Forms/Form1AR-2023.pdf,2026-11-08
+Maryland,MD,llc,Foreign registration (another state's LLC),100,,false,"Registration of a foreign LLC, in the Limited Liability Companies section of the schedule.",https://dat.maryland.gov/Documents/Accessible%20Documents/Charter%20-%20Resource%20Docs/List%20of%20Fees%20for%20Charter%20Services%20and%20Document%20Filings_0326-A.pdf,2026-11-08
+Maryland,MD,corporation,Formation filing fee,100,,false,,https://dat.maryland.gov/Documents/Accessible%20Documents/Charter%20-%20Resource%20Docs/List%20of%20Fees%20for%20Charter%20Services%20and%20Document%20Filings_0326-A.pdf,2026-11-08
+Maryland,MD,corporation,Annual or biennial report fee,300,1,false,"SDAT annual report (Form 1) fee, stock corporation",https://dat.maryland.gov/SDAT%20Forms/PPR_Forms/Form1AR-2023.pdf,2026-11-08
+Maryland,MD,corporation,Foreign registration (another state's corporation),100,,false,SDAT Foreign Corporation Qualification form; same form has a non-stock/non-profit checkbox,https://dat.maryland.gov/SDAT%20Forms/forcp.pdf,2026-11-08
+Maryland,MD,corporation,Required filing with formation,20,,false,Capitalization fee (stock corporations),https://dat.maryland.gov/Documents/Accessible%20Documents/Charter%20-%20Resource%20Docs/List%20of%20Fees%20for%20Charter%20Services%20and%20Document%20Filings_0326-A.pdf,2026-11-08
+Maryland,MD,nonprofit,Formation filing fee,100,,false,"Non-stock corporations seeking 501(c)(3), (4) or (6) status pay an additional $50 on the same page.",https://dat.maryland.gov/Documents/Accessible%20Documents/Charter%20-%20Resource%20Docs/List%20of%20Fees%20for%20Charter%20Services%20and%20Document%20Filings_0326-A.pdf,2026-11-08
+Maryland,MD,nonprofit,Annual or biennial report fee,0,1,false,SDAT annual report fee for nonstock corporations is zero,https://dat.maryland.gov/SDAT%20Forms/PPR_Forms/Form1AR-2023.pdf,2026-11-08
+Maryland,MD,nonprofit,Foreign registration (another state's nonprofit corporation),100,,false,SDAT Foreign Corporation Qualification form; same form has a non-stock/non-profit checkbox,https://dat.maryland.gov/SDAT%20Forms/forcp.pdf,2026-11-08
+Maryland,MD,nonprofit,Required filing with formation,20,,false,Organization and capitalization fee (non-stock corporations),https://dat.maryland.gov/Documents/Accessible%20Documents/Charter%20-%20Resource%20Docs/List%20of%20Fees%20for%20Charter%20Services%20and%20Document%20Filings_0326-A.pdf,2026-11-08
+Massachusetts,MA,llc,Formation filing fee,500,,false,,https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter156c/Section12,2026-11-08
+Massachusetts,MA,llc,Annual or biennial report fee,500,1,false,,https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter156c/Section12,2026-11-08
+Massachusetts,MA,llc,Foreign registration (another state's LLC),500,,false,The same $500 fee applies to the application for registration and to each annual report of a foreign LLC.,https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter156C/Section48,2026-11-08
+Massachusetts,MA,corporation,Formation filing fee,275,,true,Articles of Organization; rises with authorized shares,https://www.sec.state.ma.us/divisions/corporations/,2026-11-08
+Massachusetts,MA,corporation,Annual or biennial report fee,100,1,false,Online; $125 by mail,https://www.sec.state.ma.us/divisions/corporations/,2026-11-08
+Massachusetts,MA,corporation,Foreign registration (another state's corporation),400,,false,"Certificate of Registration, mail filing",https://www.sec.state.ma.us/divisions/corporations/,2026-11-08
+Massachusetts,MA,nonprofit,Formation filing fee,35,,false,Online filing adds $5,https://www.sec.state.ma.us/divisions/corporations/,2026-11-08
+Massachusetts,MA,nonprofit,Annual or biennial report fee,15,1,false,Due November 1,https://www.sec.state.ma.us/divisions/corporations/,2026-11-08
+Massachusetts,MA,nonprofit,Foreign registration (another state's nonprofit corporation),400,,false,By mail; $390 by fax,https://www.sec.state.ma.us/divisions/corporations/,2026-11-08
+Michigan,MI,llc,Formation filing fee,50,,false,,https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-450-5101,2026-11-08
+Michigan,MI,llc,Annual or biennial report fee,25,1,false,"Annual statement of resident agent and registered office; statute lowers the fee to $15 if paid after September 30, 2027.",https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-450-5101,2026-11-08
+Michigan,MI,llc,Foreign registration (another state's LLC),50,,false,,https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-450-5101,2026-11-08
+Michigan,MI,corporation,Formation filing fee,10,,false,Filing fee for Articles of Incorporation; the initial organization fee (MCL 450.2062) is a separate required filing,https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-450-2060,2026-11-08
+Michigan,MI,corporation,Annual or biennial report fee,25,1,false,"Annual report; $15 if paid after September 30, 2027",https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-450-2060,2026-11-08
+Michigan,MI,corporation,Foreign registration (another state's corporation),10,,false,Certificate of authority filing fee; the admission fee (MCL 450.2062) is a separate required filing,https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-450-2060,2026-11-08
+Michigan,MI,corporation,Required filing with formation,50,,true,"Initial organization and admission fee, $50 for 60,000 or fewer authorized shares, higher for more shares",https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-450-2062,2026-11-08
+Michigan,MI,corporation,Required filing with foreign registration,50,,true,"Initial admission fee for a foreign for-profit corporation Minimum; rises above 60,000 authorized shares.",https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-450-2062,2026-11-08
+Michigan,MI,nonprofit,Formation filing fee,10,,false,Filing fee for Articles of Incorporation; the franchise fee (MCL 450.3061) is a separate required filing,https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-450-3060,2026-11-08
+Michigan,MI,nonprofit,Annual or biennial report fee,20,1,false,"Annual report; $10 if paid after September 30, 2027",https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-450-3060,2026-11-08
+Michigan,MI,nonprofit,Foreign registration (another state's nonprofit corporation),10,,false,Certificate of authority filing fee; the franchise fee (MCL 450.3061) is a separate required filing,https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-450-3060,2026-11-08
+Michigan,MI,nonprofit,Required filing with formation,10,,false,Franchise fee paid on filing articles (MCL 450.3061),https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-450-3061,2026-11-08
+Michigan,MI,nonprofit,Required filing with foreign registration,10,,false,Franchise fee paid on filing application for admission (MCL 450.3061),https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-450-3061,2026-11-08
+Minnesota,MN,llc,Formation filing fee,155,,false,Online; $135 statutory fee by mail (Minn. Stat. 322C.0201),https://www.sos.mn.gov/business-liens/,2026-11-08
+Minnesota,MN,llc,Annual or biennial report fee,0,1,false,An annual renewal is still required by December 31; it is free.,https://www.revisor.mn.gov/statutes/2025/cite/322C.0208,2026-11-08
+Minnesota,MN,llc,Foreign registration (another state's LLC),205,,false,Online; $185 statutory fee by mail (Minn. Stat. 322C.0802),https://www.sos.mn.gov/business-liens/,2026-11-08
+Minnesota,MN,corporation,Formation filing fee,135,,false,Includes a $100 incorporation fee in addition to the filing fee.,https://www.revisor.mn.gov/statutes/cite/302A.153,2026-11-08
+Minnesota,MN,corporation,Annual or biennial report fee,0,1,false,Annual renewal is free when filed on time.,https://www.sos.mn.gov/media/1386/dcrenewal.pdf,2026-11-08
+Minnesota,MN,corporation,Foreign registration (another state's corporation),220,,false,Online or in person; $200 by mail,https://www.sos.mn.gov/business-liens/,2026-11-08
+Minnesota,MN,nonprofit,Formation filing fee,70,,false,Includes a $35 incorporation fee and a $35 filing fee.,https://www.revisor.mn.gov/statutes/cite/317A.151,2026-11-08
+Minnesota,MN,nonprofit,Annual or biennial report fee,0,1,false,Annual renewal is free when filed on time.,https://www.sos.mn.gov/media/1534/nonprofitrenewal.pdf,2026-11-08
+Minnesota,MN,nonprofit,Foreign registration (another state's nonprofit corporation),70,,false,Online or in person; $50 by mail,https://www.sos.mn.gov/business-liens/,2026-11-08
+Mississippi,MS,llc,Formation filing fee,50,,false,,https://www.sos.ms.gov/content/documents/Business/FeeSchedule.pdf,2026-11-08
+Mississippi,MS,llc,Annual or biennial report fee,0,1,false,Annual report is still required; a foreign LLC annual report is $250.,https://www.sos.ms.gov/content/documents/Business/FeeSchedule.pdf,2026-11-08
+Mississippi,MS,llc,Foreign registration (another state's LLC),250,,false,,https://www.sos.ms.gov/content/documents/Business/FeeSchedule.pdf,2026-11-08
+Mississippi,MS,corporation,Formation filing fee,50,,false,,https://www.sos.ms.gov/business-services,2026-11-08
+Mississippi,MS,corporation,Annual or biennial report fee,25,1,false,Plus an online processing fee.,https://www.sos.ms.gov/business-services,2026-11-08
+Mississippi,MS,corporation,Foreign registration (another state's corporation),500,,false,,https://www.sos.ms.gov/business-services,2026-11-08
+Mississippi,MS,nonprofit,Formation filing fee,50,,false,,https://www.sos.ms.gov/content/documents/Business/FeeSchedule.pdf,2026-11-08
+Mississippi,MS,nonprofit,Annual or biennial report fee,25,1,false,Filed as the Nonprofit Status Report.,https://www.sos.ms.gov/content/documents/Business/FeeSchedule.pdf,2026-11-08
+Mississippi,MS,nonprofit,Foreign registration (another state's nonprofit corporation),100,,false,,https://www.sos.ms.gov/business-services,2026-11-08
+Mississippi,MS,any,Business name (DBA) registration,25,,false,,https://www.sos.ms.gov/content/documents/Business/FeeSchedule.pdf,2026-11-08
+Missouri,MO,llc,Formation filing fee,50,,false,Online; paper $105.,https://www.sos.mo.gov/business/faqs,2026-11-08
+Missouri,MO,llc,Annual or biennial report fee,0,1,false,No annual report for LLCs.,https://www.sos.mo.gov/business/faqs,2026-11-08
+Missouri,MO,llc,Foreign registration (another state's LLC),105,,false,Paper filing fee for a domestic or foreign LLC certificate.,https://www.sos.mo.gov/CMSImages/Business/fees.pdf,2026-11-08
+Missouri,MO,corporation,Formation filing fee,58,,true,"Scales with authorized capital: $50 for the first $30,000 plus $5 per additional $10,000, plus certificate and technology fees.",https://www.sos.mo.gov/CMSImages/Business/fees.pdf,2026-11-08
+Missouri,MO,corporation,Annual or biennial report fee,15,1,false,Online fee; the statute sets $40 for a report filed on paper.,https://revisor.mo.gov/main/OneSection.aspx?section=351.125,2026-11-08
+Missouri,MO,corporation,Foreign registration (another state's corporation),155,,false,,https://www.sos.mo.gov/CMSImages/Business/fees.pdf,2026-11-08
+Missouri,MO,nonprofit,Formation filing fee,25,,false,,https://www.sos.mo.gov/CMSImages/Business/fees.pdf,2026-11-08
+Missouri,MO,nonprofit,Annual or biennial report fee,10,1,false,Online filing fee; $15 on paper. Nonprofit (Chapter 355) schedule.,https://www.sos.mo.gov/CMSImages/Business/fees.pdf,2026-11-08
+Missouri,MO,nonprofit,Foreign registration (another state's nonprofit corporation),25,,false,Nonprofit (Chapter 355) schedule.,https://www.sos.mo.gov/CMSImages/Business/fees.pdf,2026-11-08
+Missouri,MO,any,Business name (DBA) registration,7,,false,,https://www.sos.mo.gov/CMSImages/Business/fees.pdf,2026-11-08
+Montana,MT,llc,Formation filing fee,35,,false,Articles Of Organization: $35.00 plus $50.00 for each series member named in the series LLC,https://sosmt.gov/business/fees/,2026-11-02
+Montana,MT,llc,Annual or biennial report fee,0,1,false,Free if filed January 1 to April 15; $35 after April 15.,https://help.sosmt.gov/en-us/article/how-do-i-file-my-annual-report-ywawrv/,2026-11-08
+Montana,MT,llc,Foreign registration (another state's LLC),70,,false,Certificate Of Authority (foreign LLC): $70.00 plus $50.00 for each series member,https://sosmt.gov/business/fees/,2026-11-02
+Montana,MT,llc,Late filing penalty,35,,false,Annual report fee after April 15. Montana calls this the annual report fee for a report filed after April 15; reports filed January 1 to April 15 are free.,https://help.sosmt.gov/en-us/article/how-do-i-file-my-annual-report-ywawrv/,2026-11-08
+Montana,MT,corporation,Formation filing fee,35,,false,"Articles Of Incorporation, Profit Corporation: $35.00",https://sosmt.gov/business/fees/,2026-11-02
+Montana,MT,corporation,Annual or biennial report fee,0,1,false,Free if filed January 1 to April 15; $35 after April 15.,https://help.sosmt.gov/en-us/article/how-do-i-file-my-annual-report-ywawrv/,2026-11-08
+Montana,MT,corporation,Foreign registration (another state's corporation),70,,false,"Foreign Registration Statement, Profit Corporation: $70.00",https://sosmt.gov/business/fees/,2026-11-02
+Montana,MT,nonprofit,Formation filing fee,20,,false,"Articles Of Incorporation, Non-profit Corporation: $20.00",https://sosmt.gov/business/fees/,2026-11-02
+Montana,MT,nonprofit,Annual or biennial report fee,0,1,false,Free if filed January 1 to April 15; $35 after April 15.,https://help.sosmt.gov/en-us/article/how-do-i-file-my-annual-report-ywawrv/,2026-11-08
+Montana,MT,nonprofit,Foreign registration (another state's nonprofit corporation),15,,false,"Certificate Of Authority, Non-profit Corporation: $15.00",https://sosmt.gov/business/fees/,2026-11-02
+Nebraska,NE,llc,Formation filing fee,100,,false,"$100 filed online, $110 in office.",https://sos.nebraska.gov/business-services/forms-and-fee-information,2026-11-08
+Nebraska,NE,llc,Annual or biennial report fee,25,2,false,Online; $30 if filed in writing. Biennial report (Neb. Rev. Stat. 21-125); fee per 21-192(1).,https://nebraskalegislature.gov/laws/statutes.php?statute=21-192,2026-11-08
+Nebraska,NE,llc,Foreign registration (another state's LLC),100,,false,"Online; in-office $110, plus $10 for a certificate.",https://sos.nebraska.gov/business-services/forms-and-fee-information,2026-11-08
+Nebraska,NE,corporation,Formation filing fee,100,,false,Online fee; $110 in-office.,https://sos.nebraska.gov/business-services/forms-and-fee-information,2026-11-08
+Nebraska,NE,corporation,Annual or biennial report fee,26,2,true,Biennial occupation tax (even-numbered years); rises with paid-up capital stock.,https://nebraskalegislature.gov/laws/statutes.php?statute=21-303,2026-11-08
+Nebraska,NE,corporation,Foreign registration (another state's corporation),100,,false,Online fee; $110 in-office.,https://sos.nebraska.gov/business-services/forms-and-fee-information,2026-11-08
+Nebraska,NE,nonprofit,Formation filing fee,25,,false,Online fee; $30 in-office.,https://sos.nebraska.gov/business-services/forms-and-fee-information,2026-11-08
+Nebraska,NE,nonprofit,Annual or biennial report fee,25,2,false,"Online; $30 if filed in writing. Biennial report fee per Neb. Rev. Stat. 21-19,172(e) and 21-1905.",https://nebraskalegislature.gov/laws/statutes.php?statute=21-1905,2026-11-08
+Nebraska,NE,nonprofit,Foreign registration (another state's nonprofit corporation),25,,false,Online fee; $30 in-office.,https://sos.nebraska.gov/business-services/forms-and-fee-information,2026-11-08
+Nebraska,NE,any,Business name (DBA) registration,100,,false,Online fee; $110 in-office.,https://sos.nebraska.gov/business-services/forms-and-fee-information,2026-11-08
+Nevada,NV,llc,Formation filing fee,75,,false,,https://www.leg.state.nv.us/nrs/nrs-086.html,2026-11-08
+Nevada,NV,llc,Annual or biennial report fee,150,1,false,Annual list of managers or members; an initial list is also $150.,https://www.leg.state.nv.us/nrs/nrs-086.html,2026-11-08
+Nevada,NV,llc,Annual LLC tax or minimum franchise tax,200,1,false,"State business license fee, renewed annually with the annual list.",https://www.leg.state.nv.us/nrs/nrs-076.html,2026-11-08
+Nevada,NV,llc,Foreign registration (another state's LLC),75,,false,,https://www.leg.state.nv.us/nrs/nrs-086.html,2026-11-08
+Nevada,NV,llc,Late filing penalty,75,,false,,https://www.leg.state.nv.us/nrs/nrs-086.html,2026-11-08
+Nevada,NV,corporation,Formation filing fee,75,,true,Minimum; rises with the value of authorized shares,https://www.leg.state.nv.us/nrs/nrs-078.html,2026-11-08
+Nevada,NV,corporation,Annual or biennial report fee,150,1,true,Minimum; rises with the value of authorized shares,https://www.leg.state.nv.us/nrs/nrs-078.html,2026-11-08
+Nevada,NV,corporation,Annual state tax or minimum franchise tax,500,1,false,Corporations pay $500 for the annual state business license (NRS 76.130 subsection 2).,https://www.leg.state.nv.us/nrs/nrs-076.html,2026-11-08
+Nevada,NV,corporation,Foreign registration (another state's corporation),75,,true,Scales with the total value of authorized shares; $75 is the base fee.,https://www.nvsos.gov/businesses/start-a-business/limited-liability-company,2026-11-08
+Nevada,NV,nonprofit,Formation filing fee,50,,false,,https://www.leg.state.nv.us/nrs/nrs-082.html,2026-11-08
+Nevada,NV,nonprofit,Annual or biennial report fee,50,1,false,,https://www.leg.state.nv.us/nrs/nrs-082.html,2026-11-08
+Nevada,NV,nonprofit,Foreign registration (another state's nonprofit corporation),50,,false,Plus a separate $50 initial list fee.,https://www.nvsos.gov/businesses/start-a-business/limited-liability-company,2026-11-08
+New Hampshire,NH,llc,Formation filing fee,100,,false,,https://gc.nh.gov/rsa/html/XXVIII/304-C/304-C-191.htm,2026-11-08
+New Hampshire,NH,llc,Annual or biennial report fee,100,1,false,,https://gc.nh.gov/rsa/html/XXVIII/304-C/304-C-191.htm,2026-11-08
+New Hampshire,NH,llc,Foreign registration (another state's LLC),100,,false,,https://gc.nh.gov/rsa/html/XXVIII/304-C/304-C-191.htm,2026-11-08
+New Hampshire,NH,llc,Late filing penalty,50,,false,,https://gc.nh.gov/rsa/html/XXVIII/304-C/304-C-191.htm,2026-11-08
+New Hampshire,NH,corporation,Formation filing fee,100,,false,,https://gc.nh.gov/rsa/html/XXVII/293-A/293-A-122.htm,2026-11-08
+New Hampshire,NH,corporation,Annual or biennial report fee,100,1,false,,https://gc.nh.gov/rsa/html/XXVII/293-A/293-A-122.htm,2026-11-08
+New Hampshire,NH,corporation,Foreign registration (another state's corporation),100,,false,,https://gc.nh.gov/rsa/html/XXVII/293-A/293-A-122.htm,2026-11-08
+New Hampshire,NH,nonprofit,Formation filing fee,25,,false,Voluntary (nonprofit) corporations under RSA 292.,https://gc.nh.gov/rsa/html/XXVII/292/292-mrg.htm,2026-11-08
+New Hampshire,NH,nonprofit,Annual or biennial report fee,25,5,false,RSA 292:25 renewal return every 5 years.,https://gc.nh.gov/rsa/html/XXVII/292/292-mrg.htm,2026-11-08
+New Hampshire,NH,nonprofit,Foreign registration (another state's nonprofit corporation),25,,false,Form FNP-1 (RSA 292:5-b).,https://www.sos.nh.gov/corporations-0,2026-11-08
+New Jersey,NJ,llc,Formation filing fee,100,,false,,https://www.nj.gov/treasury/revenue/fees.shtml,2026-11-08
+New Jersey,NJ,llc,Annual or biennial report fee,75,1,false,Listed in the LLC section of the fee schedule.,https://www.nj.gov/treasury/revenue/fees.shtml,2026-11-08
+New Jersey,NJ,llc,Foreign registration (another state's LLC),100,,false,,https://www.nj.gov/treasury/revenue/fees.shtml,2026-11-08
+New Jersey,NJ,corporation,Formation filing fee,100,,false,,https://www.nj.gov/treasury/revenue/fees.shtml,2026-11-08
+New Jersey,NJ,corporation,Annual or biennial report fee,75,1,false,,https://www.nj.gov/treasury/revenue/fees.shtml,2026-11-08
+New Jersey,NJ,corporation,Foreign registration (another state's corporation),100,,false,,https://www.nj.gov/treasury/revenue/fees.shtml,2026-11-08
+New Jersey,NJ,nonprofit,Formation filing fee,50,,false,,https://www.nj.gov/treasury/revenue/fees.shtml,2026-11-08
+New Jersey,NJ,nonprofit,Annual or biennial report fee,30,1,false,,https://www.nj.gov/treasury/revenue/fees.shtml,2026-11-08
+New Jersey,NJ,nonprofit,Foreign registration (another state's nonprofit corporation),100,,false,,https://www.nj.gov/treasury/revenue/fees.shtml,2026-11-08
+New Mexico,NM,llc,Formation filing fee,50,,false,,https://www.sos.nm.gov/business-services/,2026-11-08
+New Mexico,NM,llc,Annual or biennial report fee,0,1,false,No annual report for LLCs,https://www.sos.nm.gov/business-services/,2026-11-08
+New Mexico,NM,llc,Foreign registration (another state's LLC),100,,false,Foreign LLC registration,https://www.sos.nm.gov/business-services/,2026-11-08
+New Mexico,NM,corporation,Formation filing fee,100,,true,"Scales with authorized shares ($1 per 1,000 shares; $100 min, $1,000 max); $100 online",https://www.sos.nm.gov/business-services/,2026-11-08
+New Mexico,NM,corporation,Annual or biennial report fee,25,2,false,"Biennial report, for-profit corporations",https://www.sos.nm.gov/business-services/,2026-11-08
+New Mexico,NM,corporation,Foreign registration (another state's corporation),200,,true,"Scales with authorized shares ($200 min, $1,000 max)",https://www.sos.nm.gov/business-services/,2026-11-08
+New Mexico,NM,nonprofit,Formation filing fee,25,,false,,https://www.sos.nm.gov/business-services/,2026-11-08
+New Mexico,NM,nonprofit,Annual or biennial report fee,10,1,false,"Annual report, nonprofit corporations",https://www.sos.nm.gov/business-services/,2026-11-08
+New Mexico,NM,nonprofit,Foreign registration (another state's nonprofit corporation),25,,false,"Application for Certificate of Authority, foreign nonprofit",https://www.sos.nm.gov/business-services/,2026-11-08
+New York,NY,llc,Formation filing fee,200,,false,LLC Law 1101(f),https://legislation.nysenate.gov/pdf/laws/LLC1101/,2026-11-08
+New York,NY,llc,Annual or biennial report fee,9,2,false,"Biennial statement, LLC Law 1101(c)",https://legislation.nysenate.gov/pdf/laws/LLC1101/,2026-11-08
+New York,NY,llc,Publication filing fee,50,,false,Certificate of Publication state fee; newspaper cost is separate,https://legislation.nysenate.gov/pdf/laws/LLC1101/,2026-11-08
+New York,NY,llc,Foreign registration (another state's LLC),250,,false,"Application for Authority, foreign LLC, LLC Law 1101(k)",https://legislation.nysenate.gov/pdf/laws/LLC1101/,2026-11-08
+New York,NY,corporation,Formation filing fee,125,,false,BCL 104-a(d),https://legislation.nysenate.gov/pdf/laws/BSC104-A/,2026-11-08
+New York,NY,corporation,Annual or biennial report fee,9,2,false,"Biennial statement, BCL 408 / 104-a(r)",https://legislation.nysenate.gov/pdf/laws/BSC104-A/,2026-11-08
+New York,NY,corporation,Foreign registration (another state's corporation),225,,false,"Application for Authority, BCL 104-a(l)",https://legislation.nysenate.gov/pdf/laws/BSC104-A/,2026-11-08
+New York,NY,nonprofit,Formation filing fee,75,,false,N-PCL 104-a(e),https://legislation.nysenate.gov/pdf/laws/NPC104-A/,2026-11-08
+New York,NY,nonprofit,Annual or biennial report fee,0,1,false,No biennial statement for nonprofit corporations,https://dos.ny.gov/corporations,2026-11-08
+New York,NY,nonprofit,Foreign registration (another state's nonprofit corporation),135,,false,"Application for Authority, N-PCL 104-a(n)",https://legislation.nysenate.gov/pdf/laws/NPC104-A/,2026-11-08
+North Carolina,NC,llc,Formation filing fee,125,,false,,https://www.sosnc.gov/fees/by_title/_Business_Registration_limited_liability_companies,2026-11-08
+North Carolina,NC,llc,Annual or biennial report fee,200,1,false,Paper fee; the state lists $203 for online filing.,https://www.sosnc.gov/fees/by_title/_Business_Registration_limited_liability_companies,2026-11-08
+North Carolina,NC,llc,Foreign registration (another state's LLC),250,,false,,https://www.sosnc.gov/fees/by_title/_Business_Registration_limited_liability_companies,2026-11-08
+North Carolina,NC,corporation,Formation filing fee,125,,false,,https://www.sosnc.gov/fees/by_title/_Business_Registration_business_corporations,2026-11-08
+North Carolina,NC,corporation,Annual or biennial report fee,25,1,false,,https://www.sosnc.gov/fees/by_title/_Business_Registration_business_corporations,2026-11-08
+North Carolina,NC,corporation,Foreign registration (another state's corporation),250,,false,,https://www.sosnc.gov/fees/by_title/_Business_Registration_business_corporations,2026-11-08
+North Carolina,NC,nonprofit,Formation filing fee,60,,false,,https://www.sosnc.gov/fees/by_title/_Business_Registration_nonprofit_corporations,2026-11-08
+North Carolina,NC,nonprofit,Annual or biennial report fee,0,1,false,No annual report is required of nonprofit corporations.,https://www.sosnc.gov/divisions/business_registration,2026-11-08
+North Carolina,NC,nonprofit,Foreign registration (another state's nonprofit corporation),125,,false,,https://www.sosnc.gov/fees/by_title/_Business_Registration_nonprofit_corporations,2026-11-08
+North Dakota,ND,llc,Formation filing fee,135,,false,,https://sos.nd.gov/business/business-services/business-structures/limited-liability-companies/limited-liability-company-llc/llc-fees.html,2026-11-08
+North Dakota,ND,llc,Annual or biennial report fee,50,1,false,,https://sos.nd.gov/business/business-services/business-structures/limited-liability-companies/limited-liability-company-llc/llc-fees.html,2026-11-08
+North Dakota,ND,llc,Foreign registration (another state's LLC),135,,false,,https://sos.nd.gov/business/business-services/business-structures/limited-liability-companies/limited-liability-company-llc/llc-fees.html,2026-11-08
+North Dakota,ND,corporation,Formation filing fee,100,,false,,https://sos.nd.gov/business/business-services/business-structures/corporation,2026-11-08
+North Dakota,ND,corporation,Annual or biennial report fee,25,1,false,,https://sos.nd.gov/business/business-services/business-structures/corporation,2026-11-08
+North Dakota,ND,corporation,Foreign registration (another state's corporation),145,,false,,https://sos.nd.gov/business/business-services/business-structures/corporation,2026-11-08
+North Dakota,ND,nonprofit,Formation filing fee,40,,false,,https://sos.nd.gov/business/nonprofit-services/register-nonprofit/north-dakota-nonprofit,2026-11-08
+North Dakota,ND,nonprofit,Annual or biennial report fee,10,1,false,,https://sos.nd.gov/business/nonprofit-services/maintain-nonprofit,2026-11-08
+North Dakota,ND,nonprofit,Foreign registration (another state's nonprofit corporation),50,,false,,https://sos.nd.gov/business/nonprofit-services/register-nonprofit/out-state-nonprofit,2026-11-08
+North Dakota,ND,any,Business name (DBA) registration,25,,false,State trade name registration through the FirstStop portal.,https://sos.nd.gov/business/business-services/business-structures/sole-proprietorship,2026-11-08
+Ohio,OH,llc,Formation filing fee,99,,false,Ohio Revised Code 111.16(F) sets one ninety-nine dollar fee for LLC articles of organization and several related filings.,https://codes.ohio.gov/ohio-revised-code/section-111.16,2026-11-08
+Ohio,OH,llc,Annual or biennial report fee,0,1,false,Ohio has no annual report for this entity type.,https://www.ohiosos.gov/businesses/,2026-11-08
+Ohio,OH,llc,Foreign registration (another state's LLC),99,,false,Ohio Revised Code 111.16(F) sets one ninety-nine dollar fee covering an application to become a registered foreign LLC.,https://codes.ohio.gov/ohio-revised-code/section-111.16,2026-11-08
+Ohio,OH,corporation,Formation filing fee,99,,true,Minimum; rises with the number of shares authorized,https://codes.ohio.gov/ohio-revised-code/section-111.16,2026-11-08
+Ohio,OH,corporation,Annual or biennial report fee,0,1,false,Ohio has no annual report for this entity type.,https://www.ohiosos.gov/businesses/,2026-11-08
+Ohio,OH,corporation,Foreign registration (another state's corporation),99,,false,Same statutory fee for a foreign for-profit corporation license and a foreign nonprofit corporation license.,https://codes.ohio.gov/ohio-revised-code/section-111.16,2026-11-08
+Ohio,OH,nonprofit,Formation filing fee,99,,false,Flat fee for a corporation authorized to issue no shares of capital stock.,https://codes.ohio.gov/ohio-revised-code/section-111.16,2026-11-08
+Ohio,OH,nonprofit,Annual or biennial report fee,25,5,false,"Statement of continued existence, due within each five years after incorporation or the last corporate filing (R.C. 1702.59); no annual report.",https://codes.ohio.gov/ohio-revised-code/section-111.16,2026-11-08
+Ohio,OH,nonprofit,Foreign registration (another state's nonprofit corporation),99,,false,Same statutory fee for a foreign for-profit corporation license and a foreign nonprofit corporation license.,https://codes.ohio.gov/ohio-revised-code/section-111.16,2026-11-08
+Ohio,OH,any,Business name (DBA) registration,39,,false,Trade name registration with the Secretary of State.,https://codes.ohio.gov/ohio-revised-code/section-1329.01,2026-11-08
+Oklahoma,OK,llc,Formation filing fee,100,,false,,https://www.sos.ok.gov/forms/fm0074.pdf,2026-11-08
+Oklahoma,OK,llc,Annual or biennial report fee,25,1,false,Annual certificate filed on the anniversary date of registration.,https://www.sos.ok.gov/forms/LLCAnnualCertificate.pdf,2026-11-08
+Oklahoma,OK,llc,Foreign registration (another state's LLC),300,,false,,https://www.sos.ok.gov/forms/FM0083.PDF,2026-11-08
+Oklahoma,OK,corporation,Formation filing fee,50,,true,"Minimum; rises with total authorized capital above $50,000",https://www.sos.ok.gov/forms/fm0001.pdf,2026-11-08
+Oklahoma,OK,corporation,Annual or biennial report fee,0,1,false,No annual certificate or report is filed with the Secretary of State by a domestic corporation.,https://www.sos.ok.gov/business/default.aspx,2026-11-08
+Oklahoma,OK,corporation,Foreign registration (another state's corporation),300,,true,"Certificate of Qualification; the fee is $1.00 per $1,000 of capital invested in Oklahoma, minimum $300.",https://www.sos.ok.gov/forms/Fm0012.PDF,2026-11-08
+Oklahoma,OK,nonprofit,Formation filing fee,25,,false,,https://www.sos.ok.gov/forms/fm0009.pdf,2026-11-08
+Oklahoma,OK,nonprofit,Annual or biennial report fee,0,1,false,No annual certificate or report is filed with the Secretary of State by a domestic nonprofit.,https://www.sos.ok.gov/business/default.aspx,2026-11-08
+Oklahoma,OK,nonprofit,Foreign registration (another state's nonprofit corporation),300,,false,Certificate of Qualification for a foreign not-for-profit corporation.,https://www.sos.ok.gov/forms/Fm0012.PDF,2026-11-08
+Oklahoma,OK,any,Business name (DBA) registration,25,,false,Trade name report filed with the Secretary of State.,https://www.sos.ok.gov/forms/fm0021.pdf,2026-11-08
+Oregon,OR,llc,Formation filing fee,100,,false,,https://sos.oregon.gov/business/documents/business-registry-forms/llc-articles.pdf,2026-11-08
+Oregon,OR,llc,Annual or biennial report fee,100,1,false,,https://sos.oregon.gov/business/Pages/dont-be-misled.aspx,2026-11-08
+Oregon,OR,llc,Foreign registration (another state's LLC),275,,false,Application for authority to transact business; nonprofits pay less.,https://sos.oregon.gov/business/Documents/business-guides/start-business-guide.pdf,2026-11-08
+Oregon,OR,corporation,Formation filing fee,100,,false,,https://sos.oregon.gov/business/Documents/business-guides/start-business-guide.pdf,2026-11-08
+Oregon,OR,corporation,Annual or biennial report fee,100,1,false,Page states one fee for an Oregon corporation or LLC annual report.,https://sos.oregon.gov/business/Pages/dont-be-misled.aspx,2026-11-08
+Oregon,OR,corporation,Foreign registration (another state's corporation),275,,false,Application for authority to transact business; nonprofits pay less.,https://sos.oregon.gov/business/Documents/business-guides/start-business-guide.pdf,2026-11-08
+Oregon,OR,nonprofit,Formation filing fee,50,,false,,https://sos.oregon.gov/business/Documents/business-guides/start-business-guide.pdf,2026-11-08
+Oregon,OR,nonprofit,Annual or biennial report fee,50,1,false,,https://sos.oregon.gov/business,2026-11-08
+Oregon,OR,nonprofit,Foreign registration (another state's nonprofit corporation),50,,false,Application for authority to transact business.,https://sos.oregon.gov/business/Documents/business-guides/start-business-guide.pdf,2026-11-08
+Oregon,OR,any,Business name (DBA) registration,50,,false,,https://sos.oregon.gov/business/Documents/business-guides/start-business-guide.pdf,2026-11-08
+Pennsylvania,PA,llc,Formation filing fee,125,,false,,https://www.pa.gov/agencies/dos/programs/business/fees-and-payments,2026-11-08
+Pennsylvania,PA,llc,Annual or biennial report fee,7,1,false,"Annual report required since January 1, 2025.",https://www.pa.gov/agencies/dos/programs/business/types-of-filings-and-registrations/annual-reports,2026-11-08
+Pennsylvania,PA,llc,Foreign registration (another state's LLC),250,,false,,https://www.pa.gov/agencies/dos/programs/business/fees-and-payments,2026-11-08
+Pennsylvania,PA,corporation,Formation filing fee,125,,false,Same fee for profit and nonprofit domestic corporations.,https://www.pa.gov/agencies/dos/programs/business/fees-and-payments,2026-11-08
+Pennsylvania,PA,corporation,Annual or biennial report fee,7,1,false,,https://www.pa.gov/agencies/dos/programs/business/fees-and-payments,2026-11-08
+Pennsylvania,PA,corporation,Foreign registration (another state's corporation),250,,false,Fee table is titled Foreign Corporation (Profit and Non-Profit).,https://www.pa.gov/agencies/dos/programs/business/fees-and-payments,2026-11-08
+Pennsylvania,PA,nonprofit,Formation filing fee,125,,false,Same fee for profit and nonprofit domestic corporations.,https://www.pa.gov/agencies/dos/programs/business/fees-and-payments,2026-11-08
+Pennsylvania,PA,nonprofit,Annual or biennial report fee,0,1,false,The page lists $0 for an annual report submitted by a nonprofit corporation (or an LP or LLC with a not-for-profit purpose); all other annual reports for profit entities are $7.,https://www.pa.gov/agencies/dos/programs/business/fees-and-payments,2026-11-08
+Pennsylvania,PA,nonprofit,Foreign registration (another state's nonprofit corporation),250,,false,Fee table is titled Foreign Corporation (Profit and Non-Profit).,https://www.pa.gov/agencies/dos/programs/business/fees-and-payments,2026-11-08
+Pennsylvania,PA,any,Business name (DBA) registration,70,,false,Fictitious name registration with the Department of State.,https://www.pa.gov/agencies/dos/programs/business/fees-and-payments,2026-11-08
+Rhode Island,RI,llc,Formation filing fee,150,,false,,https://docs.sos.ri.gov/documents/BusinessServices/400-articles-of-organization.pdf,2026-11-08
+Rhode Island,RI,llc,Annual or biennial report fee,50,1,false,,https://docs.sos.ri.gov/documents/BusinessServices/632-limited-liability-company-annual-report.pdf,2026-11-08
+Rhode Island,RI,llc,Annual LLC tax or minimum franchise tax,400,1,true,Minimum annual tax owed to the RI Division of Taxation by for-profit entities including LLCs.,https://www.sos.ri.gov/divisions/business-services/foreign-business/business-basics/costs-and-fees,2026-11-08
+Rhode Island,RI,llc,Foreign registration (another state's LLC),150,,false,,https://www.sos.ri.gov/divisions/business-services/foreign-business/business-basics/costs-and-fees,2026-11-08
+Rhode Island,RI,llc,Late filing penalty,25,,false,Applied June 1 for LLC annual reports.,https://www.sos.ri.gov/divisions/business-services/ri-business/file-your-annual-report,2026-11-08
+Rhode Island,RI,corporation,Formation filing fee,230,,true,"Minimum fee for fewer than 75,000,000 authorized shares.",https://docs.sos.ri.gov/documents/BusinessServices/business-forms-fee-schedule.pdf,2026-11-08
+Rhode Island,RI,corporation,Annual or biennial report fee,50,1,false,,https://docs.sos.ri.gov/documents/BusinessServices/business-forms-fee-schedule.pdf,2026-11-08
+Rhode Island,RI,corporation,Annual state tax or minimum franchise tax,400,1,true,,https://www.sos.ri.gov/divisions/business-services/foreign-business/business-basics/costs-and-fees,2026-11-08
+Rhode Island,RI,corporation,Foreign registration (another state's corporation),310,,true,"Certificate of authority for under 75,000,000 shares; the fee rises above that.",https://docs.sos.ri.gov/documents/BusinessServices/business-forms-fee-schedule.pdf,2026-11-08
+Rhode Island,RI,nonprofit,Formation filing fee,35,,false,,https://docs.sos.ri.gov/documents/BusinessServices/business-forms-fee-schedule.pdf,2026-11-08
+Rhode Island,RI,nonprofit,Annual or biennial report fee,20,1,false,,https://docs.sos.ri.gov/documents/BusinessServices/business-forms-fee-schedule.pdf,2026-11-08
+Rhode Island,RI,nonprofit,Foreign registration (another state's nonprofit corporation),50,,false,"R.I. Gen. Laws 7-6-92, Nonprofit Corporation Act fee schedule.",https://webserver.rilegislature.gov/Statutes/TITLE7/7-6/7-6-92.htm,2026-11-08
+Rhode Island,RI,any,Business name (DBA) registration,50,,false,Fictitious business name statement filed with the Department of State.,https://docs.sos.ri.gov/documents/BusinessServices/business-forms-fee-schedule.pdf,2026-11-08
+South Carolina,SC,llc,Formation filing fee,110,,false,,https://businessfilings.sc.gov/BusinessFiling/Home/DownloadForms?pdfCategoryId=1&category=Starting+a+Business+in+South+Carolina,2026-11-08
+South Carolina,SC,llc,Annual or biennial report fee,0,1,false,No annual report for an LLC not taxed as a corporation.,https://dor.sc.gov/business-income-taxes/corporate/corporate-faqs,2026-11-08
+South Carolina,SC,llc,Foreign registration (another state's LLC),110,,false,,https://businessfilings.sc.gov/BusinessFiling/Home/DownloadForms?pdfCategoryId=1&category=Starting+a+Business+in+South+Carolina,2026-11-08
+South Carolina,SC,corporation,Formation filing fee,110,,false,Articles of incorporation fee; the CL-1 initial annual report fee is a separate required line.,https://businessfilings.sc.gov/BusinessFiling/Home/DownloadForms?pdfCategoryId=1&category=Starting+a+Business+in+South+Carolina,2026-11-08
+South Carolina,SC,corporation,Annual or biennial report fee,25,1,true,Annual report filed with the Department of Revenue with a minimum $25 license fee; the fee rises with capital.,https://dor.sc.gov/business-income-taxes/corporate/corporate-faqs,2026-11-08
+South Carolina,SC,corporation,Foreign registration (another state's corporation),135,,false,Total payment: $110 filing plus the $25 CL-1 initial annual report fee.,https://businessfilings.sc.gov/BusinessFiling/Home/DownloadForms?pdfCategoryId=1&category=Starting+a+Business+in+South+Carolina,2026-11-08
+South Carolina,SC,corporation,Required filing with formation,25,,false,CL-1 initial annual report and license fee,https://businessfilings.sc.gov/BusinessFiling/Home/DownloadForms?pdfCategoryId=1&category=Starting+a+Business+in+South+Carolina,2026-11-08
+South Carolina,SC,nonprofit,Formation filing fee,25,,false,,https://businessfilings.sc.gov/BusinessFiling/Home/DownloadForms?pdfCategoryId=1&category=Starting+a+Business+in+South+Carolina,2026-11-08
+South Carolina,SC,nonprofit,Annual or biennial report fee,0,1,false,Applies to a Chapter 31 nonprofit exempt from income tax under IRC Section 501.,https://dor.sc.gov/business-income-taxes/corporate/corporate-faqs,2026-11-08
+South Carolina,SC,nonprofit,Foreign registration (another state's nonprofit corporation),10,,false,Non Profit - Foreign Application for a Certificate of Authority.,https://businessfilings.sc.gov/BusinessFiling/Home/DownloadForms?pdfCategoryId=1&category=Starting+a+Business+in+South+Carolina,2026-11-08
+South Dakota,SD,llc,Formation filing fee,150,,false,Online filing; paper filing is $165.,https://sdsos.gov/general-information/filing-fees.aspx,2026-11-08
+South Dakota,SD,llc,Annual or biennial report fee,55,1,false,Online filing; paper filing is $70.,https://sdsos.gov/general-information/filing-fees.aspx,2026-11-08
+South Dakota,SD,llc,Foreign registration (another state's LLC),750,,false,Online filing; paper filing is $765.,https://sdsos.gov/general-information/filing-fees.aspx,2026-11-08
+South Dakota,SD,corporation,Formation filing fee,150,,false,Online fee; paper filing is $165.,https://sdsos.gov/general-information/filing-fees.aspx,2026-11-08
+South Dakota,SD,corporation,Annual or biennial report fee,55,1,false,Online fee; paper filing is $70.,https://sdsos.gov/general-information/filing-fees.aspx,2026-11-08
+South Dakota,SD,corporation,Foreign registration (another state's corporation),750,,false,Online fee; paper filing is $765.,https://sdsos.gov/general-information/filing-fees.aspx,2026-11-08
+South Dakota,SD,nonprofit,Formation filing fee,30,,false,,https://sdsos.gov/general-information/filing-fees.aspx,2026-11-08
+South Dakota,SD,nonprofit,Annual or biennial report fee,10,1,false,,https://sdsos.gov/general-information/filing-fees.aspx,2026-11-08
+South Dakota,SD,nonprofit,Foreign registration (another state's nonprofit corporation),125,,false,,https://sdsos.gov/general-information/filing-fees.aspx,2026-11-08
+South Dakota,SD,any,Business name (DBA) registration,10,,false,DBA registration with the Secretary of State.,https://sdsos.gov/general-information/filing-fees.aspx,2026-11-08
+Tennessee,TN,llc,Formation filing fee,300,,false,,https://sos.tn.gov/businesses/services/business-forms-fees,2026-11-08
+Tennessee,TN,llc,Annual or biennial report fee,300,1,true,"Minimum; increases $50 per member over 6 members, capped at $3,000.",https://sos.tn.gov/businesses/faqs,2026-11-08
+Tennessee,TN,llc,Annual LLC tax or minimum franchise tax,100,1,true,Minimum franchise tax payable by registered entities whether active or inactive; excise tax is separate.,https://www.tn.gov/revenue/taxes/franchise---excise-tax.html,2026-11-08
+Tennessee,TN,llc,Foreign registration (another state's LLC),300,,false,,https://sos.tn.gov/businesses/services/business-forms-fees,2026-11-08
+Tennessee,TN,corporation,Formation filing fee,100,,false,,https://sos.tn.gov/businesses/services/business-forms-fees,2026-11-08
+Tennessee,TN,corporation,Annual or biennial report fee,20,1,false,An additional $20 applies only if a change is made to the registered agent or registered office.,https://sos.tn.gov/businesses/faqs,2026-11-08
+Tennessee,TN,corporation,Annual state tax or minimum franchise tax,100,1,true,Minimum franchise tax applies to entities registered through the Secretary of State to do business.,https://www.tn.gov/revenue/taxes/franchise---excise-tax.html,2026-11-08
+Tennessee,TN,corporation,Foreign registration (another state's corporation),600,,false,,https://sos.tn.gov/businesses/services/business-forms-fees,2026-11-08
+Tennessee,TN,nonprofit,Formation filing fee,100,,false,,https://sos.tn.gov/businesses/services/business-forms-fees,2026-11-08
+Tennessee,TN,nonprofit,Annual or biennial report fee,20,1,false,Excludes the online filing service charge.,https://sos.tn.gov/businesses,2026-11-08
+Tennessee,TN,nonprofit,Foreign registration (another state's nonprofit corporation),600,,false,,https://sos.tn.gov/businesses/services/business-forms-fees,2026-11-08
+Tennessee,TN,any,Business name (DBA) registration,20,,false,Assumed name registration with the Secretary of State.,https://sos.tn.gov/businesses/services/business-forms-fees,2026-11-08
+Texas,TX,llc,Formation filing fee,300,,false,,https://www.sos.state.tx.us/corp/instructions/205.shtml,2026-11-08
+Texas,TX,llc,Annual or biennial report fee,0,1,false,No Secretary of State annual report; the franchise tax Public Information Report goes to the Comptroller with no filing fee. Franchise tax is separate.,https://www.sos.state.tx.us/corp/formationfaqs.shtml,2026-11-08
+Texas,TX,llc,Foreign registration (another state's LLC),750,,false,,https://www.sos.state.tx.us/corp/instructions/304.shtml,2026-11-08
+Texas,TX,corporation,Formation filing fee,300,,false,,https://www.sos.state.tx.us/corp/instructions/201.shtml,2026-11-08
+Texas,TX,corporation,Annual or biennial report fee,0,1,false,No Secretary of State annual report; the franchise tax Public Information Report goes to the Comptroller with no filing fee. Franchise tax is separate.,https://www.sos.state.tx.us/corp/formationfaqs.shtml,2026-11-08
+Texas,TX,corporation,Foreign registration (another state's corporation),750,,false,,https://www.sos.state.tx.us/corp/instructions/301.shtml,2026-11-08
+Texas,TX,nonprofit,Formation filing fee,25,,false,,https://www.sos.state.tx.us/corp/instructions/202.shtml,2026-11-08
+Texas,TX,nonprofit,Annual or biennial report fee,5,4,false,"Periodic report filed on request of the Secretary of State, at most once every four years.",https://www.sos.state.tx.us/corp/instructions/802.shtml,2026-11-08
+Texas,TX,nonprofit,Foreign registration (another state's nonprofit corporation),25,,false,,https://www.sos.state.tx.us/corp/instructions/302.shtml,2026-11-08
+Utah,UT,llc,Formation filing fee,70,,false,"Fiscal Year 2026 fee schedule, effective July 1, 2025: Limited liability company (LLC) - certificate of organization, $70. The schedule's columns misalign in places; this row reads cleanly.",https://corporations.utah.gov/wp-content/uploads/2023/04/currentfees.pdf,2026-11-04
+Utah,UT,llc,Annual or biennial report fee,18,1,false,,https://commerce.utah.gov/corporations/,2026-11-08
+Utah,UT,llc,Foreign registration (another state's LLC),59,,false,,https://commerce.utah.gov/corporations/,2026-11-08
+Utah,UT,corporation,Formation filing fee,59,,false,,https://commerce.utah.gov/corporations/,2026-11-08
+Utah,UT,corporation,Annual or biennial report fee,18,1,false,,https://commerce.utah.gov/corporations/,2026-11-08
+Utah,UT,corporation,Foreign registration (another state's corporation),59,,false,,https://commerce.utah.gov/corporations/,2026-11-08
+Utah,UT,nonprofit,Formation filing fee,59,,false,,https://commerce.utah.gov/corporations/,2026-11-08
+Utah,UT,nonprofit,Annual or biennial report fee,18,1,false,,https://commerce.utah.gov/corporations/,2026-11-08
+Utah,UT,nonprofit,Foreign registration (another state's nonprofit corporation),59,,false,,https://commerce.utah.gov/corporations/,2026-11-08
+Vermont,VT,llc,Formation filing fee,155,,false,,https://sos.vermont.gov/business-services/fees-statutes,2026-11-08
+Vermont,VT,llc,Annual or biennial report fee,45,1,false,,https://sos.vermont.gov/business-services/fees-statutes,2026-11-08
+Vermont,VT,llc,Foreign registration (another state's LLC),155,,false,,https://sos.vermont.gov/business-services/fees-statutes,2026-11-08
+Vermont,VT,corporation,Formation filing fee,155,,false,,https://sos.vermont.gov/business-services/fees-statutes,2026-11-08
+Vermont,VT,corporation,Annual or biennial report fee,60,1,false,,https://sos.vermont.gov/business-services/fees-statutes,2026-11-08
+Vermont,VT,corporation,Foreign registration (another state's corporation),155,,false,,https://sos.vermont.gov/business-services/fees-statutes,2026-11-08
+Vermont,VT,nonprofit,Formation filing fee,155,,false,,https://sos.vermont.gov/business-services/fees-statutes,2026-11-08
+Vermont,VT,nonprofit,Annual or biennial report fee,35,2,false,"$0 if no officer, director, or employee was compensated in the prior calendar year.",https://sos.vermont.gov/business-services/fees-statutes,2026-11-08
+Vermont,VT,nonprofit,Foreign registration (another state's nonprofit corporation),175,,false,,https://sos.vermont.gov/business-services/fees-statutes,2026-11-08
+Vermont,VT,any,Business name (DBA) registration,70,,false,Assumed business name registration with the Secretary of State.,https://sos.vermont.gov/business-services/fees-statutes,2026-11-08
+Virginia,VA,llc,Formation filing fee,100,,false,,https://www.scc.virginia.gov/businesses/new-business-resources/business-types/,2026-11-08
+Virginia,VA,llc,Annual or biennial report fee,50,1,false,,https://scc.virginia.gov/pages/Annual-Registration-Fees,2026-11-08
+Virginia,VA,llc,Foreign registration (another state's LLC),100,,false,,https://www.scc.virginia.gov/businesses/new-business-resources/business-types/,2026-11-08
+Virginia,VA,llc,Late filing penalty,25,,false,,https://scc.virginia.gov/pages/Annual-Registration-Fees,2026-11-08
+Virginia,VA,corporation,Formation filing fee,75,,true,Minimum; rises with the number of authorized shares,https://www.scc.virginia.gov/media/sccvirginiagov-home/business-home/start-a-new-business/business-types/cht_fee.pdf,2026-11-08
+Virginia,VA,corporation,Annual or biennial report fee,100,1,true,"Annual registration fee for a stock corporation, based on authorized shares (minimum tier); there is no fee for filing the annual report form itself.",https://www.scc.virginia.gov/media/sccvirginiagov-home/business-home/business-faqs/annual-registration-fees/an_fee.pdf,2026-11-08
+Virginia,VA,corporation,Foreign registration (another state's corporation),75,,true,Charter/entrance fee schedule covers domestic and foreign corporations; rises with authorized shares.,https://www.scc.virginia.gov/media/sccvirginiagov-home/business-home/start-a-new-business/business-types/cht_fee.pdf,2026-11-08
+Virginia,VA,nonprofit,Formation filing fee,75,,false,"$50 charter fee plus $25 filing fee, for a nonstock corporation.",https://www.scc.virginia.gov/media/sccvirginiagov-home/business-home/start-a-new-business/business-types/cht_fee.pdf,2026-11-08
+Virginia,VA,nonprofit,Annual or biennial report fee,25,1,false,,https://www.scc.virginia.gov/media/sccvirginiagov-home/business-home/business-faqs/annual-registration-fees/an_fee.pdf,2026-11-08
+Virginia,VA,nonprofit,Foreign registration (another state's nonprofit corporation),75,,false,$50 entrance fee plus $25 filing fee; the schedule covers domestic and foreign corporations.,https://www.scc.virginia.gov/media/sccvirginiagov-home/business-home/start-a-new-business/business-types/cht_fee.pdf,2026-11-08
+Virginia,VA,any,Business name (DBA) registration,10,,false,Filed with the State Corporation Commission's Clerk's Office; the page says sole proprietorships and general partnerships may file here too.,https://scc.virginia.gov/pages/Fictitious-Names,2026-11-08
+Washington,WA,llc,Formation filing fee,180,,false,,https://www.sos.wa.gov/corporations-charities/business-entities/limited-liability-company-llc-professional-llc-pllc-filing-resource-page,2026-11-08
+Washington,WA,llc,Annual or biennial report fee,70,1,false,,https://www.sos.wa.gov/corporations-charities/business-entities/online-filing-instructions/file-annual-report-multiple-entity-types-online,2026-11-08
+Washington,WA,llc,Foreign registration (another state's LLC),180,,false,,https://www.sos.wa.gov/corporations-charities/business-entities/business-entities-filings-forms-information,2026-11-08
+Washington,WA,llc,Late filing penalty,25,,false,Delinquency fee when the entity's status is Delinquent.,https://www.sos.wa.gov/corporations-charities/business-entities/online-filing-instructions/file-annual-report-multiple-entity-types-online,2026-11-08
+Washington,WA,corporation,Formation filing fee,180,,false,,https://www.sos.wa.gov/corporations-charities/business-entities/business-entities-filings-forms-information,2026-11-08
+Washington,WA,corporation,Annual or biennial report fee,70,1,false,,https://www.sos.wa.gov/corporations-charities/business-entities/online-filing-instructions/file-annual-report-multiple-entity-types-online,2026-11-08
+Washington,WA,corporation,Foreign registration (another state's corporation),180,,false,,https://www.sos.wa.gov/corporations-charities/business-entities/business-entities-filings-forms-information,2026-11-08
+Washington,WA,nonprofit,Formation filing fee,80,,false,"$40 reduced fee for organizations certifying gross revenue under $500,000.",https://www.sos.wa.gov/corporations-charities/business-entities/business-entities-filings-forms-information,2026-11-08
+Washington,WA,nonprofit,Annual or biennial report fee,60,1,false,"$20 reduced fee for organizations certifying gross revenue under $500,000.",https://www.sos.wa.gov/corporations-charities/business-entities/online-filing-instructions/file-annual-report-nonprofit-2403a-only-online,2026-11-08
+Washington,WA,nonprofit,Foreign registration (another state's nonprofit corporation),30,,false,,https://www.sos.wa.gov/corporations-charities/business-entities/business-entities-filings-forms-information,2026-11-08
+West Virginia,WV,llc,Formation filing fee,100,,false,,https://code.wvlegislature.gov/59-1-2/,2026-11-08
+West Virginia,WV,llc,Annual or biennial report fee,25,1,false,,https://sos.wv.gov/business/updates-and-changes/annual-reports,2026-11-08
+West Virginia,WV,llc,Foreign registration (another state's LLC),150,,false,,https://code.wvlegislature.gov/59-1-2/,2026-11-08
+West Virginia,WV,corporation,Formation filing fee,100,,false,,https://code.wvlegislature.gov/59-1-2/,2026-11-08
+West Virginia,WV,corporation,Annual or biennial report fee,25,1,false,,https://code.wvlegislature.gov/59-1-2a/,2026-11-08
+West Virginia,WV,corporation,Foreign registration (another state's corporation),100,,false,,https://code.wvlegislature.gov/59-1-2/,2026-11-08
+West Virginia,WV,nonprofit,Formation filing fee,25,,false,,https://code.wvlegislature.gov/59-1-2/,2026-11-08
+West Virginia,WV,nonprofit,Annual or biennial report fee,25,1,false,"In this section, ""corporation"" means a domestic corporation, a foreign corporation, or a nonprofit corporation.",https://code.wvlegislature.gov/59-1-2a/,2026-11-08
+West Virginia,WV,nonprofit,Foreign registration (another state's nonprofit corporation),50,,false,,https://code.wvlegislature.gov/59-1-2/,2026-11-08
+West Virginia,WV,any,Business name (DBA) registration,25,,false,Trade name registration for a domestic business entity with the Secretary of State.,https://code.wvlegislature.gov/59-1-2/,2026-11-08
+Wisconsin,WI,llc,Formation filing fee,130,,false,,https://docs.legis.wisconsin.gov/statutes/statutes/183/i/0122/4,2026-11-08
+Wisconsin,WI,llc,Annual or biennial report fee,25,1,false,,https://docs.legis.wisconsin.gov/statutes/statutes/183/i/0122/4,2026-11-08
+Wisconsin,WI,llc,Foreign registration (another state's LLC),100,,false,,https://docs.legis.wisconsin.gov/statutes/statutes/183/i/0122/4,2026-11-08
+Wisconsin,WI,corporation,Formation filing fee,100,,false,,https://docs.legis.wisconsin.gov/statutes/statutes/180/i/0122,2026-11-08
+Wisconsin,WI,corporation,Annual or biennial report fee,25,1,false,,https://docs.legis.wisconsin.gov/statutes/statutes/180/i/0122,2026-11-08
+Wisconsin,WI,corporation,Foreign registration (another state's corporation),100,,true,"Plus $3 per $1,000 of capital over $60,000 employed in the state, unless a qualified new business venture.",https://docs.legis.wisconsin.gov/statutes/statutes/180/i/0122,2026-11-08
+Wisconsin,WI,nonprofit,Formation filing fee,35,,false,"Nonstock corporation filing fee, s. 181.0507(2)(a)1.",https://docs.legis.wisconsin.gov/statutes/statutes/181/v/0507,2026-11-08
+Wisconsin,WI,nonprofit,Annual or biennial report fee,25,1,false,"Nonstock corporation annual report, s. 181.0507(2)(a)17.",https://docs.legis.wisconsin.gov/statutes/statutes/181/v/0507,2026-11-08
+Wisconsin,WI,nonprofit,Foreign registration (another state's nonprofit corporation),100,,false,s. 181.0507(2)(a)13.,https://docs.legis.wisconsin.gov/statutes/statutes/181/v/0507,2026-11-08
+Wyoming,WY,llc,Formation filing fee,100,,false,,https://sos.wyo.gov/business/docs/businessfees.pdf,2026-11-08
+Wyoming,WY,llc,Annual or biennial report fee,60,1,true,Minimum; rises with the value of assets in Wyoming,https://sos.wyo.gov/business/docs/businessfees.pdf,2026-11-08
+Wyoming,WY,llc,Foreign registration (another state's LLC),150,,false,Certificate of Authority under the Limited Liability Companies schedule.,https://sos.wyo.gov/business/docs/businessfees.pdf,2026-11-08
+Wyoming,WY,corporation,Formation filing fee,100,,false,,https://sos.wyo.gov/business/docs/businessfees.pdf,2026-11-08
+Wyoming,WY,corporation,Annual or biennial report fee,60,1,true,"Minimum; rises with the value of assets in Wyoming ($60 or two-tenths of one mill, whichever is greater)",https://sos.wyo.gov/business/docs/businessfees.pdf,2026-11-08
+Wyoming,WY,corporation,Foreign registration (another state's corporation),150,,false,,https://sos.wyo.gov/business/docs/businessfees.pdf,2026-11-08
+Wyoming,WY,nonprofit,Formation filing fee,50,,false,,https://sos.wyo.gov/business/docs/businessfees.pdf,2026-11-08
+Wyoming,WY,nonprofit,Annual or biennial report fee,25,1,false,,https://sos.wyo.gov/business/docs/businessfees.pdf,2026-11-08
+Wyoming,WY,nonprofit,Foreign registration (another state's nonprofit corporation),50,,false,Certificate of Authority under the Nonprofit Corporations and Cooperative Marketing Associations schedule.,https://sos.wyo.gov/business/docs/businessfees.pdf,2026-11-08
+Wyoming,WY,any,Business name (DBA) registration,100,,false,Fee line covers trade name and trademark registration with the Secretary of State.,https://sos.wyo.gov/business/docs/businessfees.pdf,2026-11-08
