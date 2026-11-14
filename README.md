@@ -35,3 +35,9 @@ FoundIt, "State business fee dataset," https://founditbusiness.com/data/ (CC BY 
 ## Updates
 
 The copy on the site is the current one. This repository is refreshed from it.
+
+## Agent skill
+
+`skills/start-a-business/SKILL.md` tells an AI agent how to walk someone through starting a business with this data: the cost to start, what to do after forming, what the state wants every year, and registering in another state. Plain instructions, no scripts.
+
+Install with `npx skills add bragoatski/foundit-business-fees`, or read it at https://founditbusiness.com/skill/SKILL.md
