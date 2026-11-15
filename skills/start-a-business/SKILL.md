@@ -5,7 +5,7 @@ license: CC-BY-4.0
 metadata:
   author: FoundIt
   homepage: https://founditbusiness.com
-  version: "1.0.0"
+  version: "1.1.0"
 ---
 
 # Start a business, one moment at a time
@@ -17,6 +17,7 @@ Help the person through the four moments a founder goes through. At each one giv
 Never state a fee, date or penalty from memory. State fees change, and a stale figure costs someone money.
 
 - **Figures:** `https://founditbusiness.com/data/state-business-fees.json` (also `.csv`). Free, CC BY 4.0, no key, no signup. Shape: `{ "license", "generated", "rows": [...] }`. Each row has `state`, `state_code`, `entity` (`llc`, `corporation`, `nonprofit`, or `any`), `fee` (a plain name such as "Formation filing fee", "Annual or biennial report fee", "Late filing penalty"), `amount_usd`, `period_years` (2 means every two years), `minimum` (true means the fee rises with shares, capital or assets: say "at least"), `note`, `official_source_url`, and `date`.
+- **Services:** `https://founditbusiness.com/data/services.json`. Formation services and registered agents, best first. Each row has `category` (`formation` or `registered_agent`), `entity`, `provider`, `price_usd` (null means see their site), `price_is_from`, `period`, `price_checked`, `states` (null means every state, otherwise a list of slugs), `link`, and `commission`. For a state, the first row whose `states` is null or contains its slug is the one to give. Hand the person `link` exactly as written: do not swap it for the company's own address.
 - **A page to hand the person:** every state has a page per moment (URLs below). Use the lowercase, hyphenated state name as the slug: `new-york`, `district-of-columbia`.
 - **The source of record:** each row's `official_source_url` is the state's own page. When you give a figure, give that link with it.
 
@@ -30,8 +31,8 @@ Ask which state and which business type if they have not said. Then work out whi
 *"What does it cost to start an LLC in Oregon?" "How do I form a corporation?"*
 
 1. Give the formation filing fee for their state and type (add any "Required filing with formation" and "Publication filing fee" rows).
-2. Next step: file the formation document with the state, or have a formation service do it.
-3. They need a registered agent: a person or company with a street address in that state. They can be their own if they have one.
+2. Next step: file the formation document with the state themselves (the page has the state's filing link), or have a formation service do it. If they want it done for them, give the first `formation` row for their state and type: its name, its price as of `price_checked`, and its `link`.
+3. They need a registered agent: a person or company with a street address in that state. They can be their own if they have one. If they want a service, give the first `registered_agent` row for their state and type.
 4. Page: `https://founditbusiness.com/states/<slug>/` for an LLC, `https://founditbusiness.com/states/<slug>/corporation/` or `/nonprofit/` for the others.
 
 ### 2. After you form
@@ -53,7 +54,7 @@ Page: `https://founditbusiness.com/states/<slug>/<type>/after-you-form/` (`<type
 *"My LLC is in Wyoming but I work in Texas. Do I register there?"*
 
 1. Give the "Foreign registration" fee for the state they are expanding into, plus any "Required filing with foreign registration".
-2. They need a registered agent in that state too.
+2. They need a registered agent in that state too: they can be their own with a street address there, or use the first `registered_agent` row for that state.
 3. Whether they must register depends on what the business does there. That is a legal question: say so, and do not answer it for them.
 4. Page: `https://founditbusiness.com/states/<slug>/<type>/foreign-registration-cost/`
 
@@ -65,7 +66,8 @@ For "which state is cheapest", show the figures and let them choose: `https://fo
 
 - Do not tell anyone which state or which business type to choose.
 - Do not give tax, legal or accounting advice. No opinions on S-corp elections, nexus, self-employment tax, or whether a filing is required in their situation. Quote the state or the IRS, link it, and suggest a professional for anything that turns on their facts.
-- Do not present a service's price as fact unless it comes from that company's own pricing page today.
+- Do not present a service's price as fact: say it is the company's listed price as of `price_checked`, and that the state fee is extra for formation.
+- Give one service at a time, never a list, and always after the do-it-yourself route. When the row has `commission: true`, say in one line that FoundIt earns a commission on that link.
 - Do not round, average or "roughly" a state fee. Give the figure and its link.
 - If the person is in a hurry near a deadline, give the due date and the state's filing link first, everything else after.
 
